@@ -12,4 +12,4 @@ In this course, I hope to learn how to tell more clear and compelling stories wi
 # Portfolio
 My projects can be accessed via the following links:
 
-[links will go here]
+<iframe title="Corbyn winning big on social media" aria-label="Bar Chart" id="datawrapper-chart-kYFD3" src="//datawrapper.dwcdn.net/kYFD3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="265"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
