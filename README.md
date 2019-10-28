@@ -10,6 +10,6 @@ I also have many interests and pet projects outside of conservation and environm
 In this course, I hope to learn how to tell more clear and compelling stories with data and make any audience feel like they can immediately engage with the stories I'm telling. I also look forward to the opportunity to learn the software that is setting the new standard of how data should be visualized in professional settings and to build a portfolio through which I can display these new skills to prospective employers. 
 
 # Portfolio
-My projects can be accessed via the following links:
+Below are some examples of my work.
 
 <iframe title="Corbyn winning big on social media" aria-label="Bar Chart" id="datawrapper-chart-kYFD3" src="//datawrapper.dwcdn.net/kYFD3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="265"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
