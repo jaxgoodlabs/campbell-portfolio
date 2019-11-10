@@ -12,7 +12,7 @@ In this course, I hope to learn how to tell more clear and compelling stories wi
 # Portfolio
 Below are some examples of my work.
 
-#### Critique by Design: Economic Inequality in the US
+### Critique by Design: Economic Inequality in the US
 For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality.”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/)
 
 ![Inequality in the US_1.jpg](https://github.com/jaxgoodlabs/campbell-portfolio/blob/master/Inequality%20in%20the%20US_1.jpg)
@@ -23,6 +23,7 @@ My critique process involved two steps. First, I evaluated the graph in its curr
 
 Even with these changes, however, I was unsatisfied. The graph was trying to accomplish too much at once. I thought about different ways to trim it down without losing too much of its meaning. I was too unfamiliar with the particular metrics to be very judicious here, but there were lots of other reasons to eliminate the price dispersion data - most notably, the fact that it was measured on a different scale than all the other metrics. This disparity in scale was creating a lot of confusion for what I felt to be not much payoff, so I decided to eliminate it. When I did, the meaning of the graph came into much sharper focus. 
 
+![]
 
 You should include a few insights you gained from the critique method, and what it led you to think about when considering a redesign, if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback.  If it led you to change anything about your data visualization's design, mention what that was.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently. 
 
