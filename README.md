@@ -25,12 +25,10 @@ To test this assumption, I moved on part 2 of my critique process, which was to 
 
 ![Inequality in the US_4.jpg](https://github.com/jaxgoodlabs/campbell-portfolio/blob/master/Inequality%20in%20the%20US_4.jpg)
 
-With every new iteration of my redeisgn, I immediately shared it with others for feedback. Much of the early feedback I received confirmed my own opinions - "the abrupt change of scale between price dispersion and all the other metrics is confusing," "this graph is not meant for normal people," "the color coding and text descriptions are helpful for understanding what these trends mean, but still aren't very clear," etc. One of my first revisions was to remove the key at the top in an effort to eliminate redunancies and reduce the amount of text (see example above), but one reviewer felt that change made the graph more difficult to understand. In my final revision, I reintroduced the legend as headers for the more detailed descriptions on the right margin, which received much more positive feedback. 
+With every new iteration of my redeisgn, I immediately shared it with others for feedback. Much of the early feedback I received confirmed my own opinions - "the abrupt change of scale between price dispersion and all the other metrics is confusing," "this graph is not meant for normal people," "the color coding and text descriptions are helpful for understanding what these trends mean, but still aren't very clear," etc. One of my first revisions was to remove the key at the top in an effort to eliminate redunancies and reduce the amount of text (see example above), but one reviewer felt that change made the graph more difficult to understand. In my next iteration, I reintroduced the legend as headers for the more detailed descriptions on the right margin, which received much more positive feedback. I added a more descriptive subtitle to drive the graph's core message home, and voila -
 
-![Inequality in the US_6.jpg](
+![Inequality in the US_7.jpg](https://github.com/jaxgoodlabs/campbell-portfolio/blob/master/Inequality%20in%20the%20US_7.jpg)
 
-You can also include screenshots of your wireframes or other artifacts with your narrative if it helps tell the story of how you moved through the process. 
-
-3.  Your final data visualization!
+The finished product created with Tableau:
 
 Check out some of my smaller projects and experiments [here](/dataviz2.md)
