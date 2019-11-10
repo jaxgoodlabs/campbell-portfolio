@@ -12,7 +12,7 @@ In this course, I hope to learn how to tell more clear and compelling stories wi
 # Portfolio
 Below are some examples of my work.
 
-### Critique by Design: Economic Inequality in the US
+### Assignments 3 & 4: Critique by Design
 For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality.”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/)
 
 I chose this visualization because I was interested in the topic of economic inequality and familiar with the narrative in general (i.e., that inequality in the US is on the rise), but not particularly clear on its finer details. When I found this graph and saw all the technical jargon it contained, I saw an opportunity to test the limits of what effective data visualization techniques could accomplish. I was confident that I could clean the chart up aesthetically, but I was less confident of how accessible I could make its content given the technical nature of the underlying data.
@@ -30,6 +30,6 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 ![Inequality in the US_7](https://user-images.githubusercontent.com/32546509/68538144-dcc4e100-033d-11ea-8d3f-b79f7a00b9ad.jpg)
 ...And finally, the finished product created with Tableau:
 
-![Economic Inequality in the US_Trimmed data.pdf](https://github.com/jaxgoodlabs/campbell-portfolio/files/3828757/Economic.Inequality.in.the.US_Trimmed.data.pdf)
+![Tableau graph 1](https://user-images.githubusercontent.com/32546509/68548170-e8ed8480-03b7-11ea-9cea-34af4472b192.JPG)
 
 Check out some of my smaller projects and experiments [here](/dataviz2.md)
