@@ -15,7 +15,7 @@ Below are some examples of my work.
 #### Critique by Design: Economic Inequality in the US
 For this exercise, I chose to redesign a chart depicting economic inequality in the US, published by Atkinson, Hasell, Morelli, and Roser (2017) on the website [“The Chartbook of Economic Inequality.”](https://www.chartbookofeconomicinequality.com/inequality-by-country/usa/)
 
-![Inequality in the US_1.jpg]
+![Inequality in the US_1.jpg](https://github.com/jaxgoodlabs/campbell-portfolio/blob/master/Inequality%20in%20the%20US_1.jpg)
 
 I chose this visualization because I was interested in the topic of economic inequality and familiar with the narrative in general (i.e., that inequality in the US is on the rise), but not particularly clear on its finer details. When I found this graph and saw all the technical jargon it contained, I saw an opportunity to test the limits of what effective data visualization techniques could accomplish. I was confident that I could clean the chart up aesthetically, but I was less confident of how accessible I could make its content given the technical nature of the underlying data. 
 
