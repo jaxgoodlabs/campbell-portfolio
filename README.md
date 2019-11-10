@@ -30,5 +30,6 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 ![Inequality in the US_7](https://user-images.githubusercontent.com/32546509/68538144-dcc4e100-033d-11ea-8d3f-b79f7a00b9ad.jpg)
 ...And finally, the finished product created with Tableau:
 
+[Economic Inequality in the US_Trimmed data.pdf](https://github.com/jaxgoodlabs/campbell-portfolio/files/3828757/Economic.Inequality.in.the.US_Trimmed.data.pdf)
 
 Check out some of my smaller projects and experiments [here](/dataviz2.md)
