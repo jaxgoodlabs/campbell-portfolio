@@ -5,7 +5,7 @@ The landscape of regulations and policies surrounding the use and reproduction o
 
 I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce. 
 
-## Narrative Outline (w/ Initial Sketches)
+## Narrative Outline (w/ initial sketches)
 **The Information-Based Economy**
 
 Main idea: We’re in a new economic era with new rules
