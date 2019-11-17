@@ -5,7 +5,7 @@ The landscape of regulations and policies surrounding the use and reproduction o
 
 I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce.
 
-<p align="center">![Inequality in the US_4](https://user-images.githubusercontent.com/32546509/68538143-d9c9f080-033d-11ea-95c8-937c22f16cef.jpg)</p>
+![Inequality in the US_4](https://user-images.githubusercontent.com/32546509/68538143-d9c9f080-033d-11ea-95c8-937c22f16cef.jpg)
 
 ## Narrative Outline (w/ initial sketches)
 **The Information-Based Economy**
@@ -14,7 +14,7 @@ Main idea: We’re in a new economic era with new rules
  
 Examples of such goods include digital copy media (movies, music, books, etc.), scientific knowledge, and life-saving medicines (pharmaceutical recipes, etc.). But the star of the show is data – “the oil of the 21st century.”
 
-<p align="center">![image](https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png)</p>
+![image](https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png)
 
 **Economics of Information**
 
@@ -22,7 +22,7 @@ Main idea: The economics of information-based goods is strange, presenting both 
 
 With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
 
-<p align="center">![image](https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png)</p>
+![image](https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png)
   
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
@@ -32,7 +32,7 @@ Main idea: The opportunities are potentially huge, especially for developing cou
 
 The fact that so many goods can be reproduced and distributed at effectively no marginal cost means that there is a lot of room for increasing consumer surplus through sharing, etc. A prime example is data.
 
-<p align="center">![image](https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png)</p>
+![image](https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png)
   
 **Challenges**
 
@@ -64,7 +64,7 @@ Main idea: Universities can help reconcile this divide by adopting open data pol
  
 Universities are R&D factories. Patenting is highly concentrated in metropolitan areas and near research universities. While patents provide a potentially valuable source of additional revenues for the university, universities are not generally profit seeking enterprises and university scientists are not primarily driven by a profit motive.  Many donors to universities condition their funds on the university agreeing to some degree of open data policy.  
 
-<p align="center">![Screenshot (31)](https://user-images.githubusercontent.com/32546509/69015898-e1ede580-0966-11ea-9f89-d52fcc8e3fa6.png)</p>
+![Screenshot (31)](https://user-images.githubusercontent.com/32546509/69015898-e1ede580-0966-11ea-9f89-d52fcc8e3fa6.png)
 
 When governments have taken this route, they’ve found that they receive a much larger return on their investment through increased tax revenues from the economic growth their data produces than they would have through more protectionist cost recuperation strategies. 
  
