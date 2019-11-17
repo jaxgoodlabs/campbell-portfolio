@@ -62,6 +62,8 @@ Main idea: Universities can help reconcile this divide by adopting open data pol
  
 Universities are R&D factories. Patenting is highly concentrated in metropolitan areas and near research universities. While patents provide a potentially valuable source of additional revenues for the university, universities are not generally profit seeking enterprises and university scientists are not primarily driven by a profit motive.  Many donors to universities condition their funds on the university agreeing to some degree of open data policy.  
 
+<p style="text-align: center;">![Screenshot (31)](https://user-images.githubusercontent.com/32546509/69015898-e1ede580-0966-11ea-9f89-d52fcc8e3fa6.png)</p>
+
 When governments have taken this route, they’ve found that they receive a much larger return on their investment through increased tax revenues from the economic growth their data produces than they would have through more protectionist cost recuperation strategies. 
  
 **Call to Action**
