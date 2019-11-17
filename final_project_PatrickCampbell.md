@@ -24,7 +24,7 @@ Main idea: The economics of information-based goods is strange, presenting both 
 With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
 
 <p align="center">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
+<img width="380" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
 </p>
 Source: [Environmental Literacy Council](https://enviroliteracy.org/environment-society/economics/marginal-costs-benefits/)
   
