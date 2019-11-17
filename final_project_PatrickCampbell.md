@@ -81,31 +81,31 @@ This project focuses on relationships between the following variables:
 
 1.	Economic Productivity / Efficiency
 
-a.	Per capita GDP
+ a.	Per capita GDP
 
 2.	Innovation
 
-a.	USPTO patent filings (by universities?)
+ a.	USPTO patent filings (by universities?)
 
-b.	Global Innovation Index
+ b.	Global Innovation Index
 
 3.	Foreign Direct Investment (FDI)
 
-a.	FDI Regulatory Restrictiveness Index (FDI Index) measures statutory restrictions on foreign direct investment in 58 countries, including all OECD and G20 countries, and covers 22 sectors.
+ a.	FDI Regulatory Restrictiveness Index (FDI Index) measures statutory restrictions on foreign direct investment in 58 countries, including all OECD and G20 countries, and covers 22 sectors.
 
 #### Data Sets
 This project will draw on the following data sets (primary data sets are highlighted):
 
-1.	Top American Research Universities [LINK](https://mup.umass.edu/sites/default/files/mup-pdf/MUP-2013-Top-American-Research-Universities-Annual-Report.pdf) (to be used in conjunction with (2))
-2.	U.S. Colleges and Universities-Utility Patent Grants 1969-2012 [LINK]
-3.	Selected Universities Gross Revenues and Patent Licensing [LINK]
-4.	OECD IP Statistics and Analysis [LINK]
-5.	World Bank Foreign Direct Investment [LINK]
-6.	OECD Foreign Direct Investment [LINK]
-7.	OECD FDI Statistics and Analysis [LINK]
-8.	US Chamber of Commerce GIPC International IP Index Fact Sheet [LINK]
-9.	WIPO Statistics Database [LINK]
-10.	WIPO Data for Researchers [LINK]
+1.	[Top American Research Universities](https://mup.umass.edu/sites/default/files/mup-pdf/MUP-2013-Top-American-Research-Universities-Annual-Report.pdf)
+2.	[U.S. Colleges and Universities-Utility Patent Grants 1969-2012](https://www.uspto.gov/web/offices/ac/ido/oeip/taf/univ/univ_toc.htm)
+3.	[Selected Universities Gross Revenues and Patent Licensing](https://nces.ed.gov/pubs2019/2019021REV.pdf)
+4.	[OECD IP Statistics and Analysis](http://www.oecd.org/sti/intellectual-property-statistics-and-analysis.htm)
+5.	[World Bank Foreign Direct Investment](https://data.worldbank.org/indicator/bx.klt.dinv.wd.gd.zs)
+6.	[OECD Foreign Direct Investment](https://data.oecd.org/fdi/fdi-flows.htm)
+7.	[OECD FDI Statistics and Analysis](http://www.oecd.org/investment/statistics.htm)
+8.	[US Chamber of Commerce GIPC International IP Index Fact Sheet](https://www.uschamber.com/issue-brief/2015-gipc-international-ip-index-fact-sheet)
+9.	[WIPO Statistics Database](https://www.wipo.int/ipstats/en/)
+10.	[WIPO Data for Researchers](https://www.wipo.int/econ_stat/en/economics/research/)
 
 #### Other links and resources
 1.	US Patent and Trademark Office (https://www.uspto.gov/)
