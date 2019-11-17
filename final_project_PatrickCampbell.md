@@ -3,7 +3,9 @@
 ## Summary
 The landscape of regulations and policies surrounding the use and reproduction of data and other information-based goods, particularly in relation to intellectual property protections, has significant consequences on innovation and economic productivity both within the country of origin as well as around the world. 
 
-I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce. 
+I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce.
+
+<p style="text-align: center;">![Inequality in the US_4](https://user-images.githubusercontent.com/32546509/68538143-d9c9f080-033d-11ea-95c8-937c22f16cef.jpg)</p>
 
 ## Narrative Outline (w/ initial sketches)
 **The Information-Based Economy**
