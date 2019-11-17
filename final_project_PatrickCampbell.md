@@ -24,7 +24,7 @@ Main idea: The economics of information-based goods is strange, presenting both 
 With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
+<img width="300" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
 </p>
 Source: [Environmental Literacy Council](https://enviroliteracy.org/environment-society/economics/marginal-costs-benefits/)
   
@@ -37,12 +37,12 @@ Main idea: The opportunities are potentially huge, especially for developing cou
 The fact that so many goods can be reproduced and distributed at effectively no marginal cost means that there is a lot of room for increasing consumer surplus through sharing, etc. A prime example is data.
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png">
+<img width="350" height="300" src="https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png">
 </p>
 Source: [McKinsey](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information)
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016107-15ca0a80-0969-11ea-81cb-6645c98af3ab.png">
+<img width="420" height="300" src="https://user-images.githubusercontent.com/32546509/69016107-15ca0a80-0969-11ea-81cb-6645c98af3ab.png">
 </p>
 Source: [London School of Economics and Political Science](https://blogs.lse.ac.uk/businessreview/2018/03/22/intellectual-property-rights-and-the-transfer-of-low-carbon-technologies-to-other-countries/)
   
@@ -53,7 +53,7 @@ Main idea: IP law serves an important purpose, but is susceptible to abuse
 Many economists believe that pricing such goods equal to their marginal cost (as is typical in a competitive market) will remove any incentive companies have to create those goods – i.e., that it will discourage innovation in the information-based economy. The answer to this problem has been Intellectual property laws – patents, copywrites, and other protections that prevent others from using, reproducing, or distributing or otherwise benefiting from the innovations of others.
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016123-37c38d00-0969-11ea-88df-03884b6d0718.png">
+<img width="350" height="300" src="https://user-images.githubusercontent.com/32546509/69016123-37c38d00-0969-11ea-88df-03884b6d0718.png">
 </p>
 Source: [US Chamber of Commerce](https://www.uschamber.com/series/above-the-fold/2019-ip-index-shows-ip-protections-increase-countries-global-competitiveness)
  
@@ -80,7 +80,7 @@ R&D is expensive and strongly dependent on scale. This hurdle makes it difficult
 Main idea: Universities can help reconcile this divide by adopting open data policies (different incentive structure)
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016138-5b86d300-0969-11ea-9fc9-d76e2773e9bf.png">
+<img width="420" height="300" src="https://user-images.githubusercontent.com/32546509/69016138-5b86d300-0969-11ea-9fc9-d76e2773e9bf.png">
 </p>
 Source: [Brookings Institute](https://www.brookings.edu/research/eleven-facts-about-innovation-and-patents/)
  
