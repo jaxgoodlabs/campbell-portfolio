@@ -13,8 +13,10 @@ Main idea: We’re in a new economic era with new rules
 Examples of such goods include digital copy media (movies, music, books, etc.), scientific knowledge, and life-saving medicines (pharmaceutical recipes, etc.). But the star of the show is data – “the oil of the 21st century.”
 
 <p align="center">
+<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png">
+</p>
+  
 ![image](https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png)
- </p>
 
 **Economics of Information**
 
