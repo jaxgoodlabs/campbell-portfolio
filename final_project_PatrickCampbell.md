@@ -19,6 +19,8 @@ Examples of such goods include digital copy media (movies, music, books, etc.), 
 Main idea: The economics of information-based goods is strange, presenting both opportunities and challenges
 
 With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
+
+<p style="text-align: center;">![image](https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png)</p>
   
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
@@ -27,6 +29,8 @@ In an information-based economy, however, there are many valuable goods that cos
 Main idea: The opportunities are potentially huge, especially for developing countries
 
 The fact that so many goods can be reproduced and distributed at effectively no marginal cost means that there is a lot of room for increasing consumer surplus through sharing, etc. A prime example is data.
+
+<p style="text-align: center;">![image](https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png)</p>
   
 **Challenges**
 
