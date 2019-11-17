@@ -6,51 +6,60 @@ The landscape of regulations and policies surrounding the use and reproduction o
 I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce. 
 
 ## Narrative Outline (w/ Initial Sketches)
-*The Information-Based Economy*
+**The Information-Based Economy**
+
 Main idea: We’re in a new economic era with new rules
  
 Examples of such goods include digital copy media (movies, music, books, etc.), scientific knowledge, and life-saving medicines (pharmaceutical recipes, etc.). But the star of the show is data – “the oil of the 21st century.”
 
-*Economics of Information*
+**Economics of Information**
+
 Main idea: The economics of information-based goods is strange, presenting both opportunities and challenges
 
 With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
   
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
-*Opportunities*
+**Opportunities**
+
 Main idea: The opportunities are potentially huge, especially for developing countries
 
 The fact that so many goods can be reproduced and distributed at effectively no marginal cost means that there is a lot of room for increasing consumer surplus through sharing, etc. A prime example is data.
   
-*Challenges*
+**Challenges**
+
 Main idea: IP law serves an important purpose, but is susceptible to abuse
 
 Many economists believe that pricing such goods equal to their marginal cost (as is typical in a competitive market) will remove any incentive companies have to create those goods – i.e., that it will discourage innovation in the information-based economy. The answer to this problem has been Intellectual property laws – patents, copywrites, and other protections that prevent others from using, reproducing, or distributing or otherwise benefiting from the innovations of others.
  
-*Debate*
+**Debate**
+
 Main idea: The debate is fierce and strongly influenced by special interests
 
 The evidence is ambiguous: sometimes stronger IP protections seem to help the economies of developing countries, sometimes they seem to hurt. But not all arguments being offered in this debate are equally sincere, or equally valid. It’s important that we separate the signal from the noise, because the stakes are high. 
 
 Incumbents like Hollywood and major record companies frequently pressure governments to increase IP protections, but the economic case is lacking.   
 
-*Challenge*
+**Challenge**
+
 Main idea: The goal of IP law should be to maximize social efficiency without weakening the incentives for innovation
 
-*Mechanism / How value is created*
+**Mechanism / How value is created**
+
 Main idea: Data is a valuable economic input that can help small businesses grow and compete
 
 R&D is expensive and strongly dependent on scale. This hurdle makes it difficult for smaller businesses to get off the ground and compete in the marketplace, inhibiting growth. Free data helps lower this hurdle and lets more businesses into the market. This can be seen in the divergent outcomes of US and the EU when the EU decided to adopt a cost-recovery model for government collected data.
 
-*Solution*
+**Solution**
+
 Main idea: Universities can help reconcile this divide by adopting open data policies (different incentive structure)
  
 Universities are R&D factories. Patenting is highly concentrated in metropolitan areas and near research universities. While patents provide a potentially valuable source of additional revenues for the university, universities are not generally profit seeking enterprises and university scientists are not primarily driven by a profit motive.  Many donors to universities condition their funds on the university agreeing to some degree of open data policy.  
 
 When governments have taken this route, they’ve found that they receive a much larger return on their investment through increased tax revenues from the economic growth their data produces than they would have through more protectionist cost recuperation strategies. 
  
-*Call to Action*
+**Call to Action**
+
 Main idea: Universities should lower the protections surrounding the data and other information-based goods they produce. 
 
 ## Method and Medium
@@ -69,6 +78,7 @@ Other data sets I’ve included track the most common variables used in studies 
 
 #### Variables
 This project focuses on relationships between the following variables:
+
 1.	Economic Productivity / Efficiency
 a.	Per capita GDP
 2.	Innovation
@@ -79,6 +89,7 @@ a.	FDI Regulatory Restrictiveness Index (FDI Index) measures statutory restricti
 
 #### Data Sets
 This project will draw on the following data sets (primary data sets are highlighted):
+
 1.	Top American Research Universities [LINK] (to be used in conjunction with (2))
 2.	U.S. Colleges and Universities-Utility Patent Grants 1969-2012 [LINK]
 3.	Selected Universities Gross Revenues and Patent Licensing [LINK]
