@@ -80,17 +80,23 @@ Other data sets I’ve included track the most common variables used in studies 
 This project focuses on relationships between the following variables:
 
 1.	Economic Productivity / Efficiency
+
 a.	Per capita GDP
+
 2.	Innovation
+
 a.	USPTO patent filings (by universities?)
+
 b.	Global Innovation Index
+
 3.	Foreign Direct Investment (FDI)
+
 a.	FDI Regulatory Restrictiveness Index (FDI Index) measures statutory restrictions on foreign direct investment in 58 countries, including all OECD and G20 countries, and covers 22 sectors.
 
 #### Data Sets
 This project will draw on the following data sets (primary data sets are highlighted):
 
-1.	Top American Research Universities [LINK] (to be used in conjunction with (2))
+1.	Top American Research Universities [LINK](https://mup.umass.edu/sites/default/files/mup-pdf/MUP-2013-Top-American-Research-Universities-Annual-Report.pdf) (to be used in conjunction with (2))
 2.	U.S. Colleges and Universities-Utility Patent Grants 1969-2012 [LINK]
 3.	Selected Universities Gross Revenues and Patent Licensing [LINK]
 4.	OECD IP Statistics and Analysis [LINK]
