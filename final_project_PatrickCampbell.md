@@ -5,8 +5,6 @@ The landscape of regulations and policies surrounding the use and reproduction o
 
 I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce.
 
-![Inequality in the US_4](https://user-images.githubusercontent.com/32546509/68538143-d9c9f080-033d-11ea-95c8-937c22f16cef.jpg)
-
 ## Narrative Outline (w/ initial sketches)
 **The Information-Based Economy**
 
@@ -14,7 +12,9 @@ Main idea: We’re in a new economic era with new rules
  
 Examples of such goods include digital copy media (movies, music, books, etc.), scientific knowledge, and life-saving medicines (pharmaceutical recipes, etc.). But the star of the show is data – “the oil of the 21st century.”
 
+<p align="center">
 ![image](https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png)
+ </p>
 
 **Economics of Information**
 
