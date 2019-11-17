@@ -15,7 +15,7 @@ Examples of such goods include digital copy media (movies, music, books, etc.), 
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015799-c6360f80-0965-11ea-8c73-54dde0ab2914.png">
 </p>
-Source: http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future
+Source: [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
 
 **Economics of Information**
 
@@ -26,8 +26,7 @@ With traditional goods like apples and refrigerators, the forces of supply and d
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png)
+Source: [Environmental Literacy Council](https://enviroliteracy.org/environment-society/economics/marginal-costs-benefits/)
   
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
@@ -40,14 +39,12 @@ The fact that so many goods can be reproduced and distributed at effectively no 
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/32546509/69015881-b10db080-0966-11ea-8767-0dce0024b995.png)
+Source: [McKinsey](https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/open-data-unlocking-innovation-and-performance-with-liquid-information)
 
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016107-15ca0a80-0969-11ea-81cb-6645c98af3ab.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/32546509/69016107-15ca0a80-0969-11ea-81cb-6645c98af3ab.png)
+Source: [London School of Economics and Political Science](https://blogs.lse.ac.uk/businessreview/2018/03/22/intellectual-property-rights-and-the-transfer-of-low-carbon-technologies-to-other-countries/)
   
 **Challenges**
 
@@ -58,8 +55,7 @@ Many economists believe that pricing such goods equal to their marginal cost (as
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016123-37c38d00-0969-11ea-88df-03884b6d0718.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/32546509/69016123-37c38d00-0969-11ea-88df-03884b6d0718.png)
+Source: [US Chamber of Commerce](https://www.uschamber.com/series/above-the-fold/2019-ip-index-shows-ip-protections-increase-countries-global-competitiveness)
  
 **Debate**
 
@@ -86,17 +82,13 @@ Main idea: Universities can help reconcile this divide by adopting open data pol
 <p align="center">
 <img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69016138-5b86d300-0969-11ea-9fc9-d76e2773e9bf.png">
 </p>
-
-![image](https://user-images.githubusercontent.com/32546509/69016138-5b86d300-0969-11ea-9fc9-d76e2773e9bf.png)
 Source: [Brookings Institute](https://www.brookings.edu/research/eleven-facts-about-innovation-and-patents/)
  
 Universities are R&D factories. Patenting is highly concentrated in metropolitan areas and near research universities. While patents provide a potentially valuable source of additional revenues for the university, universities are not generally profit seeking enterprises and university scientists are not primarily driven by a profit motive.  Many donors to universities condition their funds on the university agreeing to some degree of open data policy.  
 
 <p align="center">
-<img width="460" height="300" src="https://user-images.githubusercontent.com/32546509/69015898-e1ede580-0966-11ea-9f89-d52fcc8e3fa6.png">
+<img width="300" height="460" src="![image](https://user-images.githubusercontent.com/32546509/69016201-68f08d00-096a-11ea-814b-87bc8fc895ae.png)">
 </p>
-
-![Screenshot (31)](https://user-images.githubusercontent.com/32546509/69015898-e1ede580-0966-11ea-9f89-d52fcc8e3fa6.png)
 Source: Benkler, Yochai. *The Wealth of Networks*, Table 9.2.
 
 When governments have taken this route, they’ve found that they receive a much larger return on their investment through increased tax revenues from the economic growth their data produces than they would have through more protectionist cost recuperation strategies. 
