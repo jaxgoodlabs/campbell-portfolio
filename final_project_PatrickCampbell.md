@@ -87,7 +87,7 @@ Source: [Brookings Institute](https://www.brookings.edu/research/eleven-facts-ab
 Universities are R&D factories. Patenting is highly concentrated in metropolitan areas and near research universities. While patents provide a potentially valuable source of additional revenues for the university, universities are not generally profit seeking enterprises and university scientists are not primarily driven by a profit motive.  Many donors to universities condition their funds on the university agreeing to some degree of open data policy.  
 
 <p align="center">
-<img width="300" height="460" src="![image](https://user-images.githubusercontent.com/32546509/69016201-68f08d00-096a-11ea-814b-87bc8fc895ae.png)">
+<img width="300" height="350" src="https://user-images.githubusercontent.com/32546509/69016394-fc768d80-096b-11ea-8b7f-8cc0bc7319aa.png">
 </p>
 Source: Benkler, Yochai. *The Wealth of Networks*, Table 9.2.
 
