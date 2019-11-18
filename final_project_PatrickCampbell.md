@@ -171,6 +171,10 @@ This project will draw on the following data sets (primary data sets are highlig
 </p>
 
 #### Deadweight loss incurred by IP
+The concept here would be to reimagine common graphs used in economic analysis, especially supply-demand curves. The economics of information have a tendency to turn classical economic trends on their heads, generating a lot of surprising insights in the process. The sketch below is almost certainly inaccurate, but attempts to represent something that economists have noted about IP protections - namely, that they tend to concentrate surplus on the producer side when strengthened (mimicking a monopoly scenario) and concentrate surple on the consumer side when weakened, with deadweight loss being distributed between those two extremes. 
 
+<p align="center">
+<img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/69018698-87ab4f80-097b-11ea-9b42-386391024f8e.png">
+</p>
 
 
