@@ -150,7 +150,7 @@ This project will draw on the following data sets (primary data sets are highlig
 9.	Global Innovation Policy Center (GIPC)
 10.	Intellectual Property for the 21st Century Economy (https://www8.gsb.columbia.edu/articles/chazen-global-insights/intellectual-property-21st-century-economy)
 11.	Do stronger Intellectual Property Rights Increase Innovation (https://www.sciencedirect.com/science/article/abs/pii/S0305750X14002630)
-12.	Eleven Facts about Innovation and Patenting, Brookings Institute (https://www.brookings.edu/research/eleven-facts-about-innovation-and-patents/)  Lots of graphs
+12.	Eleven Facts about Innovation and Patenting, Brookings Institute (https://www.brookings.edu/research/eleven-facts-about-innovation-and-patents/)
 13.	https://www.govtech.com/data/How-Open-Is-University-Data.html
 14.	https://www.openaccessgovernment.org/challenges-in-creating-open-data-policies-for-universities/54922/
 15.	https://www.ipwatchdog.com/2014/01/27/does-university-patent-licensing-pay-off/id=47655/
