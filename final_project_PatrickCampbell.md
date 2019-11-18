@@ -21,7 +21,7 @@ Source: [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-
 
 Main idea: The economics of information-based goods is strange, presenting both opportunities and challenges
 
-With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the demand curve is also the marginal cost curve). 
+With traditional goods like apples and refrigerators, the forces of supply and demand coerce producers to set prices equal to the marginal cost (the supply curve is also the marginal cost curve). 
 
 <p align="center">
 <img width="380" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
@@ -156,3 +156,21 @@ This project will draw on the following data sets (primary data sets are highlig
 15.	https://www.ipwatchdog.com/2014/01/27/does-university-patent-licensing-pay-off/id=47655/
 16.	https://www.nytimes.com/2013/11/21/education/patenting-their-discoveries-does-not-pay-off-for-most-universities-a-study-says.html?_r=0
 17.	http://www.acclaimip.com/2015-us-patenting-statistics/
+
+## Initial Sketches (cont.)
+#### Revenues by patent category
+
+<p align="center">
+<img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/69017901-b4f5fe80-0977-11ea-96e6-8b9b98c6a7a4.png">
+</p>
+
+#### Number of patents by University
+
+<p align="center">
+<img width="350" height="300" src="https://user-images.githubusercontent.com/32546509/69018031-567d5000-0978-11ea-9c7c-41e1fe5a6d45.png">
+</p>
+
+#### Deadweight loss incurred by IP
+
+
+
