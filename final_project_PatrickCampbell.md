@@ -6,7 +6,7 @@ The landscape of regulations and policies surrounding the use and reproduction o
 I want to tell the story of how the unique economics of information-based goods (when paired with other factors) make it possible to improve the social efficiency of related markets through the practice of data sharing. I want to use this story to motivate the argument that universities should lower the protections surrounding the data and other information-based goods they produce.
 
 ## Narrative Outline (w/ initial sketches)
-**The Information-Based Economy**
+**Ch. 1: The Information-Based Economy**
 
 Main idea: We’re in a new economic era with new rules
  
@@ -17,7 +17,7 @@ Examples of such goods include digital copy media (movies, music, books, etc.), 
 </p>
 Source: [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
 
-**Economics of Information**
+**Ch. 2: Economics of Information**
 
 Main idea: The economics of information-based goods is strange, presenting both opportunities and challenges
 
@@ -30,7 +30,7 @@ Source: [Environmental Literacy Council](https://enviroliteracy.org/environment-
   
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
-**Opportunities**
+**Ch. 3: Opportunities**
 
 Main idea: The opportunities are potentially huge, especially for developing countries
 
@@ -46,7 +46,7 @@ Source: [McKinsey](https://www.mckinsey.com/business-functions/mckinsey-digital/
 </p>
 Source: [London School of Economics and Political Science](https://blogs.lse.ac.uk/businessreview/2018/03/22/intellectual-property-rights-and-the-transfer-of-low-carbon-technologies-to-other-countries/)
   
-**Challenges**
+**Ch. 4: Challenges**
 
 Main idea: IP law serves an important purpose, but is susceptible to abuse
 
@@ -57,7 +57,7 @@ Many economists believe that pricing such goods equal to their marginal cost (as
 </p>
 Source: [US Chamber of Commerce](https://www.uschamber.com/series/above-the-fold/2019-ip-index-shows-ip-protections-increase-countries-global-competitiveness)
  
-**Debate**
+**Ch. 5: The Debate**
 
 Main idea: The debate is fierce and strongly influenced by special interests
 
@@ -65,17 +65,17 @@ The evidence is ambiguous: sometimes stronger IP protections seem to help the ec
 
 Incumbents like Hollywood and major record companies frequently pressure governments to increase IP protections, but the economic case is lacking.   
 
-**Challenge**
+**Ch. 6: Challenge**
 
 Main idea: The goal of IP law should be to maximize social efficiency without weakening the incentives for innovation
 
-**Mechanism / How value is created**
+**Ch. 7: Mechanism of value creation**
 
 Main idea: Data is a valuable economic input that can help small businesses grow and compete
 
 R&D is expensive and strongly dependent on scale. This hurdle makes it difficult for smaller businesses to get off the ground and compete in the marketplace, inhibiting growth. Free data helps lower this hurdle and lets more businesses into the market. This can be seen in the divergent outcomes of US and the EU when the EU decided to adopt a cost-recovery model for government collected data.
 
-**Solution**
+**Ch. 8: Solution**
 
 Main idea: Universities can help reconcile this divide by adopting open data policies (different incentive structure)
 
@@ -93,7 +93,7 @@ Source: Benkler, Yochai. *The Wealth of Networks*, Table 9.2.
 
 When governments have taken this route, they’ve found that they receive a much larger return on their investment through increased tax revenues from the economic growth their data produces than they would have through more protectionist cost recuperation strategies. 
  
-**Call to Action**
+**Ch. 9: Call to Action**
 
 Main idea: Universities should lower the protections surrounding the data and other information-based goods they produce. 
 
