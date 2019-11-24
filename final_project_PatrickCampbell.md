@@ -177,4 +177,97 @@ The concept here would be to reimagine common graphs used in economic analysis, 
 <img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/69018698-87ab4f80-097b-11ea-9b42-386391024f8e.png">
 </p>
 
+# Final Project Part 2: User Research and Prototyping
 
+## Wireframes and Storyboards
+Links to the prototype before and after incorporating user feedback are accessible at the following links.
+
+[Link to first prototype](https://preview.shorthand.com/bQYFxE4dcP104j5N)
+
+[Link to revised prototype incorporating user feedback](https://preview.shorthand.com/rbaX9nh7wMMEMQku)
+
+## User Research Protocol
+**Target Audience**
+This story targets general audiences, but especially people associated with the university system (students, professors, etc.) and those interested in public policy and economic development.
+
+**Approach**
+My user research approach is to use user research surveys to obtain feedback on the clarity and persuasiveness of my story. I intend to survey 3 individuals matching the criteria described above – one person outside the university system and without special interest or knowledge of the topics addressed (representing general audiences) and two graduate students from the Heinz public policy school at Carnegie Mellon University. I intend to survey friends and acquaintances who I can trust to provide honest critical feedback on the elements of the story.
+In order to focus feedback on the story-telling quality of the visualizations themselves (i.e., independently of the supporting text), I will compile the visualizations in a separate folder numbered by their order in the story. This approach will preserve the logical flow of the narrative without allowing the textual narrative to fill in the gaps. Because I have so many images, I will also use this opportunity to help identify the 3 or so graphs that are most integral to the story I want to tell, and/or that my audience intuitively sense tells the most compelling story. If there is rough consensus after my three interviews, I plan to focus my redesigns on those visualizations, leaving the others as contextual, or if necessary, removing them altogether.
+Since the storyboard is in a digital format, I’ll record the interviewee’s comments on a scrap piece of paper, leaving them free to examine the visualization. 
+
+**Interview Script**
+Hi (name of interviewee), would you mind providing your feedback on some data visualizations? The purpose of the exercise is to help me better understand what makes a visualization effective, particularly in how clearly it communicates its intended message to its target audience. 
+[General thoughts and impressions]
+First, I’d like for you to browse the entire collection of visualizations for 2 to 3 minutes and just note any general thoughts, feelings, and impressions. 
+(Wait ~3 minutes)
+What are your main thoughts, feelings, and impressions about these visualizations?
+What did these visualizations mean to you, taken as a collection? 
+Did you feel like there was any central story connecting the visualizations? If so, what was that story?
+Do you feel the visualizations made you want to respond in some way / do something? If so, what?
+What 3 graphs do you feel most completely captured the central story as you understood it / were most integral? 
+[Specific graphs]
+(Using just the 3 graphs identified above) 
+Visualization 1: (description of visualization)
+In one sentence, can you tell me why you selected this visualization?
+What is the first thing you noticed about this visualization? Why?
+Did anything about this visualization surprise you? If so, what?
+What does this visualization mean to you, if anything?
+How do you feel about the colors, fonts, and other aesthetic features of the graph? Do you feel those feelings are consistent or inconsistent with the message of the visualization?
+If you could change something about this graph, what would it be and why?
+(Repeat for visualizations 2 and 3)
+
+[Revisit story]
+Now that you’ve had a bit more time to interact with the visualizations, have any of your perceptions changed? If so, how?
+How about the story? Do you feel the data tells the same story as you thought before, or a different one? 
+Can you elaborate on how you felt it’s changed? What was it specifically that you feel caused the story to change for you?
+
+Thank you for your time!
+
+**Findings**
+Common themes identified from the user research include:
+•	Story did not feel unified – was open to multiple, conflicting interpretations (when no additional context provided). “A lot of left turns.”
+o	Major elements / alternative loci of story could have been any of the following - Innovation, technology, IP, patents, universities, climate change, etc.
+o	Most common interpretations were: 
+	Stronger IP protections were good for economies and should be used more strategically by universities and 
+	Open data is good for economies and should be used more strategically by universities.
+•	Most commonly identified graphs for integrality to narrative
+o	Economic value of open data by sector (aggregate bar graph)
+o	Economic competitiveness by strength of IP (linear regression graph)
+o	Bowtie illustrations of effects of IP on allocation of surplus
+o	Patent royalties as percentage of total university revenues (table)
+o	Carbon tech transfer (bar chart)
+•	“Bowtie” illustration was compelling but confusing – labels were unclear, message was unclear, but communicated a sense of something important
+o	“Colors capture more than words, but have to go to words to understand what colors mean.”
+o	Seems to emphasize a comparison between two things. “Looks like they originate from a single source, but then become something completely different, or opposite.” 
+•	Very few aesthetic complaints about gray-scale graphs – helped with clarity
+•	Most common complaint about graphs was lack of time indexing and unclear x and y labels
+•	Most surprising elements were
+o	Gap between clusters of countries in IP strength by economic competitiveness linear regression graph
+o	“Dead space” in center of bowtie illustration
+•	No call to action very clear, but possibilities included:
+o	Support open data
+o	Support strong IP protections for university patents
+o	IP laws have some effect on how well countries deal with climate change 
+•	Conflict between IP protections and open data did not seem to be clear from the visualizations alone.
+•	Some graphs described as “very weird” – bowtie illustration, break-apart diagram of patented technologies, etc.
+•	In the several bar graphs, first thing respondents noticed were the biggest bars with the brightest color (when multiple colors used). 
+
+#### Changes Implemented 
+In response to the feedback of prospective users, I made the following changes:
+•	Focused redesign efforts on 5 most integral graphs
+o	Stair-step bar graph showing economic potential of open data
+o	Linear regression graph of global competitiveness against strength of IP protections
+o	Effect of strength of IP laws on allocation of surplus (bowtie graph)
+o	Number of patents by university (graduated point map)
+o	Patent royalties as a proportion of university revenues (table)
+•	Sketched redesigns for the above graphs to address most common critiques
+o	Stair-step bar graph
+	I tried eliminating the weird stair step gray space in the middle and moving that information to the bottom. The first redraw used different scales for the per-sector graph and aggregate tally on the bottom, which I found confusing, so I tried another approach with a stair step line graph, both with and without fill. The filled version retains a lot of the bar graph feel of the original but without the sense of dead space in the middle, which I liked. 
+o	Linear regression
+	I broke up the two clusters by color and added a reference point in IP law to explain the possible gap – namely, the adoption of the TRIPs agreement.
+o	Bowtie graph
+	I decided to try a more traditional presentation to represent the change in allocation of surplus as a function of strength of IP using a series of classic supply-and-demand curves alongside a slider controlling strength of IP protections. I considered turning this into a slide animation somehow.
+o	Table
+	Converted to bar graph highlighting patent royalties as a proportion of total revenues.
+•	I removed several inessential elements to simplify the story and maintain a high level of generality
+o	Bar graph on the benefits of tech transfer
