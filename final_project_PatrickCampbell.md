@@ -180,6 +180,7 @@ The concept here would be to reimagine common graphs used in economic analysis, 
 # Final Project Part 2: User Research and Prototyping
 
 ## Wireframes and Storyboards
+
 Links to the prototype before and after incorporating user feedback are accessible at the following links.
 
 [Link to first prototype](https://preview.shorthand.com/bQYFxE4dcP104j5N)
@@ -187,36 +188,61 @@ Links to the prototype before and after incorporating user feedback are accessib
 [Link to revised prototype incorporating user feedback](https://preview.shorthand.com/rbaX9nh7wMMEMQku)
 
 ## User Research Protocol
+
 **Target Audience**
+
 This story targets general audiences, but especially people associated with the university system (students, professors, etc.) and those interested in public policy and economic development.
 
 **Approach**
+
 My user research approach is to use user research surveys to obtain feedback on the clarity and persuasiveness of my story. I intend to survey 3 individuals matching the criteria described above – one person outside the university system and without special interest or knowledge of the topics addressed (representing general audiences) and two graduate students from the Heinz public policy school at Carnegie Mellon University. I intend to survey friends and acquaintances who I can trust to provide honest critical feedback on the elements of the story.
+
 In order to focus feedback on the story-telling quality of the visualizations themselves (i.e., independently of the supporting text), I will compile the visualizations in a separate folder numbered by their order in the story. This approach will preserve the logical flow of the narrative without allowing the textual narrative to fill in the gaps. Because I have so many images, I will also use this opportunity to help identify the 3 or so graphs that are most integral to the story I want to tell, and/or that my audience intuitively sense tells the most compelling story. If there is rough consensus after my three interviews, I plan to focus my redesigns on those visualizations, leaving the others as contextual, or if necessary, removing them altogether.
+
 Since the storyboard is in a digital format, I’ll record the interviewee’s comments on a scrap piece of paper, leaving them free to examine the visualization. 
 
 **Interview Script**
+
 Hi (name of interviewee), would you mind providing your feedback on some data visualizations? The purpose of the exercise is to help me better understand what makes a visualization effective, particularly in how clearly it communicates its intended message to its target audience. 
+
 [General thoughts and impressions]
+
 First, I’d like for you to browse the entire collection of visualizations for 2 to 3 minutes and just note any general thoughts, feelings, and impressions. 
+
 (Wait ~3 minutes)
+
 What are your main thoughts, feelings, and impressions about these visualizations?
+
 What did these visualizations mean to you, taken as a collection? 
+
 Did you feel like there was any central story connecting the visualizations? If so, what was that story?
+
 Do you feel the visualizations made you want to respond in some way / do something? If so, what?
+
 What 3 graphs do you feel most completely captured the central story as you understood it / were most integral? 
+
 [Specific graphs]
+
 (Using just the 3 graphs identified above) 
+
 Visualization 1: (description of visualization)
+
 In one sentence, can you tell me why you selected this visualization?
+
 What is the first thing you noticed about this visualization? Why?
+
 Did anything about this visualization surprise you? If so, what?
+
 What does this visualization mean to you, if anything?
+
 How do you feel about the colors, fonts, and other aesthetic features of the graph? Do you feel those feelings are consistent or inconsistent with the message of the visualization?
+
 If you could change something about this graph, what would it be and why?
+
 (Repeat for visualizations 2 and 3)
 
 [Revisit story]
+
 Now that you’ve had a bit more time to interact with the visualizations, have any of your perceptions changed? If so, how?
 How about the story? Do you feel the data tells the same story as you thought before, or a different one? 
 Can you elaborate on how you felt it’s changed? What was it specifically that you feel caused the story to change for you?
@@ -224,7 +250,9 @@ Can you elaborate on how you felt it’s changed? What was it specifically that 
 Thank you for your time!
 
 **Findings**
+
 Common themes identified from the user research include:
+
 •	Story did not feel unified – was open to multiple, conflicting interpretations (when no additional context provided). “A lot of left turns.”
 o	Major elements / alternative loci of story could have been any of the following - Innovation, technology, IP, patents, universities, climate change, etc.
 o	Most common interpretations were: 
@@ -253,7 +281,9 @@ o	IP laws have some effect on how well countries deal with climate change
 •	In the several bar graphs, first thing respondents noticed were the biggest bars with the brightest color (when multiple colors used). 
 
 #### Changes Implemented 
+
 In response to the feedback of prospective users, I made the following changes:
+
 •	Focused redesign efforts on 5 most integral graphs
 o	Stair-step bar graph showing economic potential of open data
 o	Linear regression graph of global competitiveness against strength of IP protections
