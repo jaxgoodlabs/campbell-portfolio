@@ -211,15 +211,15 @@ First, I’d like for you to browse the entire collection of visualizations for 
 
 (Wait ~3 minutes)
 
-What are your main thoughts, feelings, and impressions about these visualizations?
+  * What are your main thoughts, feelings, and impressions about these visualizations?
 
-What did these visualizations mean to you, taken as a collection? 
+  * What did these visualizations mean to you, taken as a collection? 
 
-Did you feel like there was any central story connecting the visualizations? If so, what was that story?
+  * Did you feel like there was any central story connecting the visualizations? If so, what was that story?
 
-Do you feel the visualizations made you want to respond in some way / do something? If so, what?
+  * Do you feel the visualizations made you want to respond in some way / do something? If so, what?
 
-What 3 graphs do you feel most completely captured the central story as you understood it / were most integral? 
+  * What 3 graphs do you feel most completely captured the central story as you understood it / were most integral? 
 
 [Specific graphs]
 
@@ -227,25 +227,27 @@ What 3 graphs do you feel most completely captured the central story as you unde
 
 Visualization 1: (description of visualization)
 
-In one sentence, can you tell me why you selected this visualization?
+  * In one sentence, can you tell me why you selected this visualization?
 
-What is the first thing you noticed about this visualization? Why?
+  * What is the first thing you noticed about this visualization? Why?
 
-Did anything about this visualization surprise you? If so, what?
+  * Did anything about this visualization surprise you? If so, what?
 
-What does this visualization mean to you, if anything?
+  * What does this visualization mean to you, if anything?
 
-How do you feel about the colors, fonts, and other aesthetic features of the graph? Do you feel those feelings are consistent or inconsistent with the message of the visualization?
+  * How do you feel about the colors, fonts, and other aesthetic features of the graph? Do you feel those feelings are consistent or inconsistent with the message of the visualization?
 
-If you could change something about this graph, what would it be and why?
+  * If you could change something about this graph, what would it be and why?
 
 (Repeat for visualizations 2 and 3)
 
 [Revisit story]
 
-Now that you’ve had a bit more time to interact with the visualizations, have any of your perceptions changed? If so, how?
-How about the story? Do you feel the data tells the same story as you thought before, or a different one? 
-Can you elaborate on how you felt it’s changed? What was it specifically that you feel caused the story to change for you?
+  * Now that you’ve had a bit more time to interact with the visualizations, have any of your perceptions changed? If so, how?
+
+  * How about the story? Do you feel the data tells the same story as you thought before, or a different one? 
+
+  * Can you elaborate on how you felt it’s changed? What was it specifically that you feel caused the story to change for you?
 
 Thank you for your time!
 
@@ -253,51 +255,53 @@ Thank you for your time!
 
 Common themes identified from the user research include:
 
-•	Story did not feel unified – was open to multiple, conflicting interpretations (when no additional context provided). “A lot of left turns.”
-o	Major elements / alternative loci of story could have been any of the following - Innovation, technology, IP, patents, universities, climate change, etc.
-o	Most common interpretations were: 
-	Stronger IP protections were good for economies and should be used more strategically by universities and 
+  * Story did not feel unified – was open to multiple, conflicting interpretations (when no additional context provided). “A lot of left turns."
+      - Major elements / alternative loci of story could have been any of the following - Innovation, technology, IP, patents, universities, climate change, etc.
+  
+  * Most common interpretations were: 
+      - Stronger IP protections were good for economies and should be used more strategically by universities and 
 	Open data is good for economies and should be used more strategically by universities.
-•	Most commonly identified graphs for integrality to narrative
-o	Economic value of open data by sector (aggregate bar graph)
-o	Economic competitiveness by strength of IP (linear regression graph)
-o	Bowtie illustrations of effects of IP on allocation of surplus
-o	Patent royalties as percentage of total university revenues (table)
-o	Carbon tech transfer (bar chart)
-•	“Bowtie” illustration was compelling but confusing – labels were unclear, message was unclear, but communicated a sense of something important
-o	“Colors capture more than words, but have to go to words to understand what colors mean.”
-o	Seems to emphasize a comparison between two things. “Looks like they originate from a single source, but then become something completely different, or opposite.” 
-•	Very few aesthetic complaints about gray-scale graphs – helped with clarity
-•	Most common complaint about graphs was lack of time indexing and unclear x and y labels
-•	Most surprising elements were
-o	Gap between clusters of countries in IP strength by economic competitiveness linear regression graph
-o	“Dead space” in center of bowtie illustration
-•	No call to action very clear, but possibilities included:
-o	Support open data
-o	Support strong IP protections for university patents
-o	IP laws have some effect on how well countries deal with climate change 
-•	Conflict between IP protections and open data did not seem to be clear from the visualizations alone.
-•	Some graphs described as “very weird” – bowtie illustration, break-apart diagram of patented technologies, etc.
-•	In the several bar graphs, first thing respondents noticed were the biggest bars with the brightest color (when multiple colors used). 
+  * Most commonly identified graphs for integrality to narrative
+    - Economic value of open data by sector (aggregate bar graph)
+    - Economic competitiveness by strength of IP (linear regression graph)
+    - Bowtie illustrations of effects of IP on allocation of surplus
+    - Patent royalties as percentage of total university revenues (table)
+     - Carbon tech transfer (bar chart)
+  * “Bowtie” illustration was compelling but confusing – labels were unclear, message was unclear, but communicated a sense of something important
+    - “Colors capture more than words, but have to go to words to understand what colors mean.”
+    -  Seems to emphasize a comparison between two things. “Looks like they originate from a single source, but then become something completely different, or opposite.” 
+    
+  * Very few aesthetic complaints about gray-scale graphs – helped with clarity
+  * Most common complaint about graphs was lack of time indexing and unclear x and y labels
+  * Most surprising elements were
+    - Gap between clusters of countries in IP strength by economic competitiveness linear regression graph
+    - “Dead space” in center of bowtie illustration
+  * No call to action very clear, but possibilities included:
+    - Support open data
+    - Support strong IP protections for university patents
+    - IP laws have some effect on how well countries deal with climate change 
+  * Conflict between IP protections and open data did not seem to be clear from the visualizations alone.
+  * Some graphs described as “very weird” – bowtie illustration, break-apart diagram of patented technologies, etc.
+  * In the several bar graphs, first thing respondents noticed were the biggest bars with the brightest color (when multiple colors used). 
 
 #### Changes Implemented 
 
 In response to the feedback of prospective users, I made the following changes:
 
-•	Focused redesign efforts on 5 most integral graphs
-o	Stair-step bar graph showing economic potential of open data
-o	Linear regression graph of global competitiveness against strength of IP protections
-o	Effect of strength of IP laws on allocation of surplus (bowtie graph)
-o	Number of patents by university (graduated point map)
-o	Patent royalties as a proportion of university revenues (table)
-•	Sketched redesigns for the above graphs to address most common critiques
-o	Stair-step bar graph
-	I tried eliminating the weird stair step gray space in the middle and moving that information to the bottom. The first redraw used different scales for the per-sector graph and aggregate tally on the bottom, which I found confusing, so I tried another approach with a stair step line graph, both with and without fill. The filled version retains a lot of the bar graph feel of the original but without the sense of dead space in the middle, which I liked. 
-o	Linear regression
-	I broke up the two clusters by color and added a reference point in IP law to explain the possible gap – namely, the adoption of the TRIPs agreement.
-o	Bowtie graph
-	I decided to try a more traditional presentation to represent the change in allocation of surplus as a function of strength of IP using a series of classic supply-and-demand curves alongside a slider controlling strength of IP protections. I considered turning this into a slide animation somehow.
-o	Table
-	Converted to bar graph highlighting patent royalties as a proportion of total revenues.
-•	I removed several inessential elements to simplify the story and maintain a high level of generality
-o	Bar graph on the benefits of tech transfer
+  * Focused redesign efforts on 5 most integral graphs
+    - Stair-step bar graph showing economic potential of open data
+    - Linear regression graph of global competitiveness against strength of IP protections
+    - Effect of strength of IP laws on allocation of surplus (bowtie graph)
+    - Number of patents by university (graduated point map)
+    - Patent royalties as a proportion of university revenues (table)
+  * Sketched redesigns for the above graphs to address most common critiques
+    - Stair-step bar graph
+      - I tried eliminating the weird stair step gray space in the middle and moving that information to the bottom. The first redraw used different scales for the per-sector graph and aggregate tally on the bottom, which I found confusing, so I tried another approach with a stair step line graph, both with and without fill. The filled version retains a lot of the bar graph feel of the original but without the sense of dead space in the middle, which I liked. 
+    - Linear regression
+      - I broke up the two clusters by color and added a reference point in IP law to explain the possible gap – namely, the adoption of the TRIPs agreement.
+    - Bowtie graph
+      - I decided to try a more traditional presentation to represent the change in allocation of surplus as a function of strength of IP using a series of classic supply-and-demand curves alongside a slider controlling strength of IP protections. I considered turning this into a slide animation somehow.
+    - Table
+      - Converted to bar graph highlighting patent royalties as a proportion of total revenues.
+  * I removed several inessential elements to simplify the story and maintain a high level of generality
+    - Bar graph on the benefits of tech transfer
