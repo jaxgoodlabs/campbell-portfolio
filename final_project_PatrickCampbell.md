@@ -221,11 +221,9 @@ First, I’d like for you to browse the entire collection of visualizations for 
 
   * What 3 graphs do you feel most completely captured the central story as you understood it / were most integral? 
 
-[Specific graphs]
+[Specific graphs - Using just the 3 graphs identified above]
 
-(Using just the 3 graphs identified above) 
-
-Visualization 1: (description of visualization)
+*Visualization 1:* (description of visualization)
 
   * In one sentence, can you tell me why you selected this visualization?
 
@@ -239,7 +237,7 @@ Visualization 1: (description of visualization)
 
   * If you could change something about this graph, what would it be and why?
 
-(Repeat for visualizations 2 and 3)
+*Visualization 2:* (Repeat for visualizations 2 and 3)
 
 [Revisit story]
 
@@ -259,14 +257,14 @@ Common themes identified from the user research include:
       - Major elements / alternative loci of story could have been any of the following - Innovation, technology, IP, patents, universities, climate change, etc.
   
   * Most common interpretations were: 
-      - Stronger IP protections were good for economies and should be used more strategically by universities and 
-	Open data is good for economies and should be used more strategically by universities.
+      - Stronger IP protections were good for economies and should be used more strategically by universities 
+      - Open data is good for economies and should be used more strategically by universities.
   * Most commonly identified graphs for integrality to narrative
     - Economic value of open data by sector (aggregate bar graph)
     - Economic competitiveness by strength of IP (linear regression graph)
     - Bowtie illustrations of effects of IP on allocation of surplus
     - Patent royalties as percentage of total university revenues (table)
-     - Carbon tech transfer (bar chart)
+    - Carbon tech transfer (bar chart)
   * “Bowtie” illustration was compelling but confusing – labels were unclear, message was unclear, but communicated a sense of something important
     - “Colors capture more than words, but have to go to words to understand what colors mean.”
     -  Seems to emphasize a comparison between two things. “Looks like they originate from a single source, but then become something completely different, or opposite.” 
