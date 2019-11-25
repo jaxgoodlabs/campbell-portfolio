@@ -303,3 +303,5 @@ In response to the feedback of prospective users, I made the following changes:
       - Converted to bar graph highlighting patent royalties as a proportion of total revenues.
   * I removed several inessential elements to simplify the story and maintain a high level of generality
     - Bar graph on the benefits of tech transfer
+    - The debate section contrasting the two main positions on the issue
+    - The section describing the mechanism of value generation 
