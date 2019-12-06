@@ -324,7 +324,8 @@ The intended audience for my final data story is university officials and decisi
 
 To make this story work for my intended audience, I conducted a series of user interviews with people matching the general profile of my intended audience. Because my story was relatively complex, I focused a lot of attention on trying to identify the one or two points of focus that most completely contained the larger story I wanted to tell. Once I settled on which specific content I wanted to emphasize, I went to work on the visualizations, testing several iterations of each ones against a new round of test users. 
 
-In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. To accomplish this, I focused on removing extraneous elements, using consistent color schemes between related graphs (example below), and pithy titles that stated explicitly what each graph was primarily intended to communicate.
+## Design Decisions
+In the majority of cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. To accomplish this, I focused on removing extraneous elements, using consistent color schemes between related graphs (example below), and pithy titles that stated explicitly what each graph was primarily intended to communicate.
 
 Below is an example of how I used consistent color schemes to tie together related graphs. While the blue/gray color scheme is nice, it doesn't draw the desired connection with the consumer surplus I've been tracking through the rest of my narrative. 
 
@@ -346,15 +347,26 @@ To reinforce this connection, I opted for the orange color scheme instead, which
 <img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70360221-d302a080-184b-11ea-9aa8-609236f0cfcb.jpg">
 </p>
 
+In some cases, the major obstacle to achieving my goal of clarity and simplicity was extreme outliers in my source data sets. In one example, I was working with a table from Yochai Benkler's 2006 book, *The Wealth of Networks,* which highlighted the relative proportion of patent revenues vs. government sources in the budgets of top research universities in the US. The central message of both Benkler's table as well as my graphical redesign was that, on average, patent revenues represent a very small proportion of top research universities' budgets. However, because the University of California had a budget more than 4 times the size of any other major research university, leaving it in the graph threatened to obscure that central message by making the percentage represented by patent revenues virtually imperceptible. By excluding this outlier, I could more effectively convey the data's central message without grossly misrepresenting the reality it represents.
+
+Graph with University of California included:
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70361180-aac87100-184e-11ea-9d9c-e1a686312f03.JPG">
+</p>
+
+Graph with University of California excluded:
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70361198-b3b94280-184e-11ea-9cdd-4de36d9fee29.JPG">
+</p>
+
+## Challenges and Plans for future work
 One persistent challenge I struggled with is getting my graphs to present properly on Shorthand. The most common problems I encountered were graphics that were too small and graphics that scrolled too quickly, i.e., disappeared before the viewer had time to assimilate the information. Due to time constraints, this was a problem I was never able to adequately resolve, but would be the first thing I'd revisit if given more time. 
 
 One last thing I would have liked to have accomplished, but ultimately was unable to, is find a clear and compelling way to illustrate how changing the strength of IP protections affects how surplus is allocated in the market for information-based goods. I had originally planned to create this graphic from scratch using a sort of bowtie shaped model to highlight the seemingly zero-sum nature of information markets. Despite receiving some initial positive feedback on the general concept, I was ultimately unable to execute on my design. Other users simply found the graphic confusing. I was eventually able to find a more technically accurate modeling of the economics of information under different IP regimes using more traditional supply-and-demand graphcs (applied to the particular case of book copies) and decided to include these despite their obvious weaknesses as a story-telling device (the models are technical, complex, and difficult to interpret). If I could have made just one improvement, I would have added colors consistent with the original supply-and-demand chanrt I'd used at the beginning (blue for producer surplus, orange for consumer surplus) just to highlight the fact that different regulatory decisions have a signicant impact on how surplus is allocated, which, after all, is really all I'd intended to communicate here. In the end, I judged this to be a somewhat tangential element of my story, and settled with what I could  
 
 Link to final data story [here](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html)
-Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell-portfolio)
 
-## Design Decisions
-Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell-portfolio)
 
 ## Data Sources
 1. Benkler, Yochai. *The Wealth of Networks.* London and New Haven: Yale University Press. 2006. [Table 9.2](https://cyber.harvard.edu/wealth_of_networks/Table_9.2)
@@ -404,4 +416,7 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 18. "2015 US Patent Statistics." AcclaimIP.com. [Link](http://www.acclaimip.com/2015-us-patenting-statistics/)
 
 [Return to top](#final-project-part-1)
+
 [Return to Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
+
+[Navigate to supplemental works](/dataviz2.html)
