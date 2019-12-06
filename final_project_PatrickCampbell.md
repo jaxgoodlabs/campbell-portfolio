@@ -315,6 +315,8 @@ In response to the feedback of prospective users, I made the following changes:
     - The debate section contrasting the two main positions on the issue
     - The section describing the mechanism of value generation 
 
+[Return to top](#final-project-part-1)
+
 # Final Project Part 3
 
 ## Final data story
@@ -324,7 +326,25 @@ To make this story work for my intended audience, I conducted a series of user i
 
 In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. To accomplish this, I focused on removing extraneous elements, using consistent color schemes between related graphs (example below), and pithy titles that stated explicitly what each graph was primarily intended to communicate.
 
+*Below is an example of how I used consistent color schemes to tie together related graphs. While the blue/gray color scheme is nice, it doesn't draw the desired connection with the consumer surplus I've been tracking through the rest of my narrative. 
 
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70359883-ff69ed00-184a-11ea-92de-6ccf8a95c542.JPG">
+</p>
+
+To reinforce this connection, I opted for the orange color scheme instead, which preserves the desired continuity with the subsequent visusalizations.
+
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70359858-efeaa400-184a-11ea-8adc-6a78094641bf.JPG">
+</p>
+
+<p align="center">
+<img width="300" height="300" src="https://user-images.githubusercontent.com/32546509/70360155-a6e71f80-184b-11ea-9102-1c8e49910ed1.JPG">
+</p>
+
+<p align="center">
+<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70360221-d302a080-184b-11ea-9aa8-609236f0cfcb.jpg">
+</p>
 
 One persistent challenge I struggled with is getting my graphs to present properly on Shorthand. The most common problems I encountered were graphics that were too small and graphics that scrolled too quickly, i.e., disappeared before the viewer had time to assimilate the information. Due to time constraints, this was a problem I was never able to adequately resolve, but would be the first thing I'd revisit if given more time. 
 
@@ -382,3 +402,6 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 16. Allen, Joseph. "Does University Patent Licensing Pay Off?" IP Watchdog. January 27, 2014. [Link](https://www.ipwatchdog.com/2014/01/27/does-university-patent-licensing-pay-off/id=47655/)
 17. Pierson, Brendan. "Martin Shkreli, Who Raised Drug Prices 5,000 Percent, Heads into Fraud Trial: Accusers say he lied to investors." Reuters. June 26, 2017. [Link](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)
 18. "2015 US Patent Statistics." AcclaimIP.com. [Link](http://www.acclaimip.com/2015-us-patenting-statistics/)
+
+[Return to top](#final-project-part-1)
+[Return to Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
