@@ -1,6 +1,6 @@
 #### Jump to Section
 [Part 1](#final-project-part-1)
-[Part 2](#final-project-part-2-user-research-and-prototyping)
+[Part 2](#final-project-part-2)
 [Part 3](#final-project-part-3)
 
 # Final Project Part 1
@@ -188,7 +188,7 @@ The concept here would be to reimagine common graphs used in economic analysis, 
 
 [Return to top](#final-project-part-1)
 
-# Final Project Part 2: User Research and Prototyping
+# Final Project Part 2
 
 ## Wireframes and Storyboards
 
@@ -317,6 +317,19 @@ In response to the feedback of prospective users, I made the following changes:
     - The debate section contrasting the two main positions on the issue
     - The section describing the mechanism of value generation 
 
+# Final Project Part 3
+
+## Final data story
+The intended audience for my final data story is university officials and decision-makers, students of universities, and politically active/engaged adults in the US. I chose a story that I felt was timely and somewhat familiar to socially-minded individuals in the US in virtue of its connection to several high profile stories recently in the news, including the contemporary battles between the US and China over intellectual property and the notorious case of Martin Shkreli, who raised the price of the life-saving anti-parisitic drug Daraprim from $13.50 to $750 a pill when he was chief executive of Turing Pharmaceuticals ([Scientific American, 2015](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)). All of these stories are set against a larger backdrop of the increasing commodification of personal data by big tech companies like Facebook, Google, and others. I wanted to highlight the common thread that ties all these headlines together: intellectual property laws and the special economic properties of information. 
+
+To make this story work for my intended audience, I conducted a series of user interviews with people matching the general profile of my intended audience. Because my story was relatively complex, I focused a lot of attention on trying to identify the one or two points of focus that most completely contained the larger story I wanted to tell. Once I settled on which specific content I wanted to emphasize, I went to work on the visualizations, testing several iterations of each ones against a new round of test users. In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. 
+
+Link to final data story [here](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html)
+Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell-portfolio)
+
+## Design Decisions
+Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+
 ## Data Sources
 1. Benkler, Yochai. *The Wealth of Networks.* London and New Haven: Yale University Press. 2006. [Table 9.2](https://cyber.harvard.edu/wealth_of_networks/Table_9.2)
 2. [GDP by utility patents, USPTO](https://developer.uspto.gov/visualization/state-gdp-utility-patents)
@@ -329,8 +342,8 @@ In response to the feedback of prospective users, I made the following changes:
 9. [GDP by country (current US$), World Bank](https://data.worldbank.org/indicator/ny.gdp.mktp.cd?view=map)
 10. [Projected value of open data, McKinsey](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20information/MGI_Open_data_FullReport_Oct2013.ashx)
 	
-## Final Presentation photo credits
-Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below (in the order presented).
+## Final presentation photo credits
+Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below.
 
 1. [Stages of economic development](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
 2. [Competitive Advantage through the Economic Eras](http://www.tomorrowtodayglobal.com/2013/02/21/competitive-advantage-what-matters-most-today-and-how-we-got-here/)
@@ -343,7 +356,7 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 9. [Patenting is Concentrated in Cities and Near Universities(https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
 10. [University closing photo](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1
 
-## Other Resources
+## Other Links and Resources
 1. Tiemann, Michael. "The (awesome) economics of open source." Opensource.com. 13 Sep 2018. [Link](https://opensource.com/article/18/9/awesome-economics-open-source)
 2. Duhigg, Charles and Steve Lohroct. "The Patent, Used as a Sword." New York Times. Oct. 7, 2012. [Link](https://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html)
 3. Adrian, Anne Mims. "Challenges in creating open data policies for universities." Open Access Government. November 23, 2018. [Link](https://www.openaccessgovernment.org/challenges-in-creating-open-data-policies-for-universities/54922/)
@@ -358,4 +371,6 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 12. Hayes, Adam. "When Universities Patent Their Research." IP Watchdog. November 20, 2017. [Link](https://www.ipwatchdog.com/2017/11/20/universities-patent-research/id=90200/)
 13. The Global Dimensions of Intellectual Property Rights in Science and Technology." The National Academies Press. 1993. [Link](https://www.nap.edu/read/2054/chapter/3)
 14. Solomon, Neal. "Correlation of U.S. Patent System and Productivity Growth." IP Watchdog. September 29, 2016. [Link](https://www.ipwatchdog.com/2016/09/29/correlation-us-patent-system-productivity-growth/id=73254/)
-15. 
+15. Pérez-Peña, Richard. "Patenting Their Discoveries Does Not Pay Off for Most Universities, a Study Says." The new York Times. Nov. 20, 2013 [Link](https://www.nytimes.com/2013/11/21/education/patenting-their-discoveries-does-not-pay-off-for-most-universities-a-study-says.html?_r=0)
+16. Allen, Joseph. "Does University Patent Licensing Pay Off?" IP Watchdog. January 27, 2014. [Link](https://www.ipwatchdog.com/2014/01/27/does-university-patent-licensing-pay-off/id=47655/)
+17. Pierson, Brendan. "Martin Shkreli, Who Raised Drug Prices 5,000 Percent, Heads into Fraud Trial: Accusers say he lied to investors." Reuters. June 26, 2017. [Link](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)
