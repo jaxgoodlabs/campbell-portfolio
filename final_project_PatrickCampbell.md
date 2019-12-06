@@ -319,7 +319,7 @@ In response to the feedback of prospective users, I made the following changes:
 
 # Final Project Part 3
 
-## Final data story
+## Final Data Story
 The intended audience for my final data story is university officials and decision-makers, students of universities, and politically active/engaged adults in the US. I chose a story that I felt was timely and somewhat familiar to socially-minded individuals in the US in virtue of its connection to several high profile stories recently in the news, including the contemporary battles between the US and China over intellectual property and the notorious case of Martin Shkreli, who raised the price of the life-saving anti-parisitic drug Daraprim from $13.50 to $750 a pill when he was chief executive of Turing Pharmaceuticals ([Scientific American, 2015](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)). All of these stories are set against a larger backdrop of the increasing commodification of personal data by big tech companies like Facebook, Google, and others. I wanted to highlight the common thread that ties all these headlines together: intellectual property laws and the special economic properties of information. 
 
 To make this story work for my intended audience, I conducted a series of user interviews with people matching the general profile of my intended audience. Because my story was relatively complex, I focused a lot of attention on trying to identify the one or two points of focus that most completely contained the larger story I wanted to tell. Once I settled on which specific content I wanted to emphasize, I went to work on the visualizations, testing several iterations of each ones against a new round of test users. 
@@ -377,7 +377,7 @@ I also experimented with using only a single axis for this data set and using si
 <img width="400" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
 </p>
 
-## Challenges and Plans for future work
+## Challenges and Plans for Future Work
 One persistent challenge I struggled with is getting my graphs to present properly on Shorthand. The most common problems I encountered were graphics that were too small and graphics that scrolled too quickly, i.e., disappeared before the viewer had time to assimilate the information. Due to time constraints, this was a problem I was never able to adequately resolve, but would be the first thing I'd revisit if given more time. 
 
 One last thing I would have liked to have accomplished, but ultimately was unable to, is find a clear and compelling way to illustrate how changing the strength of IP protections affects how surplus is allocated in the market for information-based goods. I had originally planned to create this graphic from scratch using a sort of bowtie shaped model to highlight the seemingly zero-sum nature of information markets. Despite receiving some initial positive feedback on the general concept, I was ultimately unable to execute on my design. Other users simply found the graphic confusing. I was eventually able to find a more technically accurate modeling of the economics of information under different IP regimes using more traditional supply-and-demand graphcs (applied to the particular case of book copies) and decided to include these despite their obvious weaknesses as a story-telling device (the models are technical, complex, and difficult to interpret). If I could have made just one improvement, I would have added colors consistent with the original supply-and-demand chanrt I'd used at the beginning (blue for producer surplus, orange for consumer surplus) just to highlight the fact that different regulatory decisions have a signicant impact on how surplus is allocated, which, after all, is really all I'd intended to communicate here. In the end, I judged this to be a somewhat tangential element of my story, and settled with what I could  
@@ -399,7 +399,7 @@ Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell
 10. [Projected value of open data, McKinsey](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20information/MGI_Open_data_FullReport_Oct2013.ashx)
 11. "World Patent Report: A Statistical Review - 2008 edition." World Intellectual Property Organization. [Link](https://www.wipo.int/ipstats/en/statistics/patents/wipo_pub_931.html)
 	
-## Final presentation photo credits
+## Final Presentation Photo Credits
 Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below.
 
 1. [Stages of economic development](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
