@@ -359,6 +359,24 @@ Graph with University of California excluded:
 <img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70361198-b3b94280-184e-11ea-9cdd-4de36d9fee29.JPG">
 </p>
 
+I encountered a similar problem in my redesign of the scatter plot graph relating the strength of a countries' IP protections to its GDP. In this case, however, I chose to keep the outliers in the final graph since excluding them would eliminate the two most prominant and interesting players in this game - the US and China. Both entites have huge economies despite taking vastly different approaches to IP protections. The tradeoff in making this decision, however, was that the positive correlation between these two variables appears much weaker than it actually is for the vast majority of countries.
+
+Graph with US and China included:
+<p align="center">
+<img width="400" height="400" src="https://user-images.githubusercontent.com/32546509/70362255-51fad780-1852-11ea-956d-afe49203ccde.JPG">
+</p>
+
+Graph with US and China (and other outliers) excluded:
+<p align="center">
+<img width="400" height="400" src="https://user-images.githubusercontent.com/32546509/70362203-1bbd5800-1852-11ea-9b45-b5f2fc82ca89.JPG">
+</p>
+
+I also experimented with using only a single axis for this data set and using size scaling to represent each countries' GDP. This strategy, however, almost completely obscured the positive relationship between strength of IP protections and GDP since so many the circles overlap one another. 
+
+<p align="center">
+<img width="300" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
+</p>
+
 ## Challenges and Plans for future work
 One persistent challenge I struggled with is getting my graphs to present properly on Shorthand. The most common problems I encountered were graphics that were too small and graphics that scrolled too quickly, i.e., disappeared before the viewer had time to assimilate the information. Due to time constraints, this was a problem I was never able to adequately resolve, but would be the first thing I'd revisit if given more time. 
 
