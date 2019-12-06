@@ -374,7 +374,7 @@ Graph with US and China (and other outliers) excluded:
 I also experimented with using only a single axis for this data set and using size scaling to represent each countries' GDP. This strategy, however, almost completely obscured the positive relationship between strength of IP protections and GDP since so many the circles overlap one another. 
 
 <p align="center">
-<img width="400" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
+<img width="375" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
 </p>
 
 ## Challenges and Plans for Future Work
