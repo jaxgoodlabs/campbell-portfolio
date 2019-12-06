@@ -1,6 +1,6 @@
 #### Jump to Section
 [Part 1](#final-project-part-1)
-[Part 2](#final-project-part-2:-user-research-and-prototyping)
+[Part 2](#final-project-part-2-user-research-and-prototyping)
 [Part 3](#final-project-part-3)
 
 # Final Project Part 1
