@@ -363,18 +363,18 @@ I encountered a similar problem in my redesign of the scatter plot graph relatin
 
 Graph with US and China included:
 <p align="center">
-<img width="400" height="400" src="https://user-images.githubusercontent.com/32546509/70362255-51fad780-1852-11ea-956d-afe49203ccde.JPG">
+<img width="500" height="400" src="https://user-images.githubusercontent.com/32546509/70362255-51fad780-1852-11ea-956d-afe49203ccde.JPG">
 </p>
 
 Graph with US and China (and other outliers) excluded:
 <p align="center">
-<img width="400" height="400" src="https://user-images.githubusercontent.com/32546509/70362203-1bbd5800-1852-11ea-9b45-b5f2fc82ca89.JPG">
+<img width="500" height="400" src="https://user-images.githubusercontent.com/32546509/70362203-1bbd5800-1852-11ea-9b45-b5f2fc82ca89.JPG">
 </p>
 
 I also experimented with using only a single axis for this data set and using size scaling to represent each countries' GDP. This strategy, however, almost completely obscured the positive relationship between strength of IP protections and GDP since so many the circles overlap one another. 
 
 <p align="center">
-<img width="300" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
+<img width="400" height="600" src="https://user-images.githubusercontent.com/32546509/70362334-9b4b2700-1852-11ea-961b-8b4782b79699.JPG">
 </p>
 
 ## Challenges and Plans for future work
