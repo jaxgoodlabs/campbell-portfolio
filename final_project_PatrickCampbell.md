@@ -181,6 +181,8 @@ The concept here would be to reimagine common graphs used in economic analysis, 
 <img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/69018698-87ab4f80-097b-11ea-9b42-386391024f8e.png">
 </p>
 
+[Return to top](#final-project-part-1:-outline)
+
 # Final Project Part 2: User Research and Prototyping
 
 ## Wireframes and Storyboards
