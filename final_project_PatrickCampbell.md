@@ -326,7 +326,7 @@ To make this story work for my intended audience, I conducted a series of user i
 
 In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. To accomplish this, I focused on removing extraneous elements, using consistent color schemes between related graphs (example below), and pithy titles that stated explicitly what each graph was primarily intended to communicate.
 
-*Below is an example of how I used consistent color schemes to tie together related graphs. While the blue/gray color scheme is nice, it doesn't draw the desired connection with the consumer surplus I've been tracking through the rest of my narrative. 
+Below is an example of how I used consistent color schemes to tie together related graphs. While the blue/gray color scheme is nice, it doesn't draw the desired connection with the consumer surplus I've been tracking through the rest of my narrative. 
 
 <p align="center">
 <img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70359883-ff69ed00-184a-11ea-92de-6ccf8a95c542.JPG">
