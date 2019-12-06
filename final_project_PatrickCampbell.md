@@ -1,6 +1,5 @@
 #### Jump to Section
-[Part 1](#final-project-part-1) / [Part 2](#final-project-part-2) / [Part 3](#final-project-part-3)
-[Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
+[Part 1](#final-project-part-1) / [Part 2](#final-project-part-2) / [Part 3](#final-project-part-3) / [Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
 
 # Final Project Part 1
 
