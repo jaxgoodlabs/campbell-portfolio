@@ -2,6 +2,7 @@
 [Part 1](#final-project-part-1)
 [Part 2](#final-project-part-2)
 [Part 3](#final-project-part-3)
+[Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
 
 # Final Project Part 1
 
@@ -322,7 +323,15 @@ In response to the feedback of prospective users, I made the following changes:
 ## Final data story
 The intended audience for my final data story is university officials and decision-makers, students of universities, and politically active/engaged adults in the US. I chose a story that I felt was timely and somewhat familiar to socially-minded individuals in the US in virtue of its connection to several high profile stories recently in the news, including the contemporary battles between the US and China over intellectual property and the notorious case of Martin Shkreli, who raised the price of the life-saving anti-parisitic drug Daraprim from $13.50 to $750 a pill when he was chief executive of Turing Pharmaceuticals ([Scientific American, 2015](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)). All of these stories are set against a larger backdrop of the increasing commodification of personal data by big tech companies like Facebook, Google, and others. I wanted to highlight the common thread that ties all these headlines together: intellectual property laws and the special economic properties of information. 
 
-To make this story work for my intended audience, I conducted a series of user interviews with people matching the general profile of my intended audience. Because my story was relatively complex, I focused a lot of attention on trying to identify the one or two points of focus that most completely contained the larger story I wanted to tell. Once I settled on which specific content I wanted to emphasize, I went to work on the visualizations, testing several iterations of each ones against a new round of test users. In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. 
+To make this story work for my intended audience, I conducted a series of user interviews with people matching the general profile of my intended audience. Because my story was relatively complex, I focused a lot of attention on trying to identify the one or two points of focus that most completely contained the larger story I wanted to tell. Once I settled on which specific content I wanted to emphasize, I went to work on the visualizations, testing several iterations of each ones against a new round of test users. 
+
+In the majority of these cases, the most important goal that emerged from my users' feedback was *simplification* - each graph should tell just one story, and tell it as clearly and compellingly as possible. To accomplish this, I focused on removing extraneous elements, using consistent color schemes between related graphs (example below), and pithy titles that stated explicitly what each graph was primarily intended to communicate.
+
+
+
+One persistent challenge I struggled with is getting my graphs to present properly on Shorthand. The most common problems I encountered were graphics that were too small and graphics that scrolled too quickly, i.e., disappeared before the viewer had time to assimilate the information. Due to time constraints, this was a problem I was never able to adequately resolve, but would be the first thing I'd revisit if given more time. 
+
+One last thing I would have liked to have accomplished, but ultimately was unable to, is find a clear and compelling way to illustrate how changing the strength of IP protections affects how surplus is allocated in the market for information-based goods. I had originally planned to create this graphic from scratch using a sort of bowtie shaped model to highlight the seemingly zero-sum nature of information markets. Despite receiving some initial positive feedback on the general concept, I was ultimately unable to execute on my design. Other users simply found the graphic confusing. I was eventually able to find a more technically accurate modeling of the economics of information under different IP regimes using more traditional supply-and-demand graphcs (applied to the particular case of book copies) and decided to include these despite their obvious weaknesses as a story-telling device (the models are technical, complex, and difficult to interpret). If I could have made just one improvement, I would have added colors consistent with the original supply-and-demand chanrt I'd used at the beginning (blue for producer surplus, orange for consumer surplus) just to highlight the fact that different regulatory decisions have a signicant impact on how surplus is allocated, which, after all, is really all I'd intended to communicate here. In the end, I judged this to be a somewhat tangential element of my story, and settled with what I could  
 
 Link to final data story [here](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html)
 Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell-portfolio)
@@ -341,6 +350,7 @@ Talk about the design decisions you had to make along the way, and reflect on an
 8. [US Chamber of Commerce International IP Index Scores, 7th ed.] (https://www.theglobalipcenter.com/ipindex2019-chart/)
 9. [GDP by country (current US$), World Bank](https://data.worldbank.org/indicator/ny.gdp.mktp.cd?view=map)
 10. [Projected value of open data, McKinsey](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20information/MGI_Open_data_FullReport_Oct2013.ashx)
+11. "World Patent Report: A Statistical Review - 2008 edition." World Intellectual Property Organization. [Link](https://www.wipo.int/ipstats/en/statistics/patents/wipo_pub_931.html)
 	
 ## Final presentation photo credits
 Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below.
@@ -362,7 +372,7 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 3. Adrian, Anne Mims. "Challenges in creating open data policies for universities." Open Access Government. November 23, 2018. [Link](https://www.openaccessgovernment.org/challenges-in-creating-open-data-policies-for-universities/54922/)
 4. Bilderbeek, Pim. "Transformation: From Traditional To Digital Economy." The Metis Files. Nov. 28, 2013. [Link](https://www.themetisfiles.com/2013/11/transformation-from-traditional-to-digital-economy/)
 5. Lewin, Peter. "Creativity or Coorecion: Perspectives on Rights to Intellectual Property." From the Selected Works of Peter Lewin. University of Texas at Dallas. 2007. [Link](https://pdfs.semanticscholar.org/975a/4754b250196a8aa2ca61c397ab4cf8737d8e.pdf?_ga=2.43330791.354453290.1575000518-1307926883.1575000518)
-6. Supply-and-demand chart generator. Creately.com. [Link](https://app.creately.com/diagram/KXa4BUamcxd/edit)
+6. Supply-and-demand chart builder. Creately.com. [Link](https://app.creately.com/diagram/KXa4BUamcxd/edit)
 7. Perens, Bruce. "The Emerging Economic Paradigm of Open Source." *First Monday, Special Issue #2: Open Source.* Oct. 3, 2005. [Link](https://www.ojphi.org/ojs/index.php/fm/article/view/1470/1385)
 8. Roser, Max. "Economic Growth." Our World in Data. [Link](https://ourworldindata.org/economic-growth?fbclid=IwAR3DhN91pAZZWifvM5BxFddXfleOs6ZAuQtclPZJpCgz87prr_HsZ-PQ388)
 9. "Intellectual Property and the US Economy." US Patent and Trademark Office. [Link](Intellectual Property and the U.S. Economy)
@@ -374,3 +384,4 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 15. Pérez-Peña, Richard. "Patenting Their Discoveries Does Not Pay Off for Most Universities, a Study Says." The new York Times. Nov. 20, 2013 [Link](https://www.nytimes.com/2013/11/21/education/patenting-their-discoveries-does-not-pay-off-for-most-universities-a-study-says.html?_r=0)
 16. Allen, Joseph. "Does University Patent Licensing Pay Off?" IP Watchdog. January 27, 2014. [Link](https://www.ipwatchdog.com/2014/01/27/does-university-patent-licensing-pay-off/id=47655/)
 17. Pierson, Brendan. "Martin Shkreli, Who Raised Drug Prices 5,000 Percent, Heads into Fraud Trial: Accusers say he lied to investors." Reuters. June 26, 2017. [Link](https://www.scientificamerican.com/article/martin-shkreli-who-raised-drug-prices-5-000-percent-heads-into-fraud-trial/)
+18. "2015 US Patent Statistics." AcclaimIP.com. [Link](http://www.acclaimip.com/2015-us-patenting-statistics/)
