@@ -181,7 +181,7 @@ The concept here would be to reimagine common graphs used in economic analysis, 
 <img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/69018698-87ab4f80-097b-11ea-9b42-386391024f8e.png">
 </p>
 
-[Return to top](#final-project-part-1:-outline)
+[Return to top](# final-project-part-1-outline)
 
 # Final Project Part 2: User Research and Prototyping
 
@@ -327,7 +327,7 @@ In response to the feedback of prospective users, I made the following changes:
 ## Final Presentation photo credits
 Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below (in the order presented).
 
-1. [Stages of economic development] - [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
+1. [Stages of economic development](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
 2. [Competitive Advantage through the Economic Eras](http://www.tomorrowtodayglobal.com/2013/02/21/competitive-advantage-what-matters-most-today-and-how-we-got-here/)
 3. [Industrial revolution](https://www.seekmomentum.com/blog/manufacturing/the-evolution-of-industry-from-1-to-4)
 4. [Oil of the 21st century](https://twitter.com/TheEconomist)
@@ -335,7 +335,7 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 6. [Copies, copies, copies](https://www.onshape.com/cad-blog/copies-copies-copies)
 7. [Wall of patents](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1)
 8. [Economic analysis of 0$ MC goods](https://pdfs.semanticscholar.org/975a/4754b250196a8aa2ca61c397ab4cf8737d8e.pdf?_ga=2.43330791.354453290.1575000518-1307926883.1575000518)
-9. [Patenting is Concentrated in Cities and Near Universities](https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
+9. [Patenting is Concentrated in Cities and Near Universities(https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
 10. [University closing photo](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1
 
 ## Other Resources
