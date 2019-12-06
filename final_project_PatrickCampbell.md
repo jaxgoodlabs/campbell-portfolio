@@ -330,21 +330,21 @@ In the majority of cases, the most important goal that emerged from my users' fe
 Below is an example of how I used consistent color schemes to tie together related graphs. While the blue/gray color scheme is nice, it doesn't draw the desired connection with the consumer surplus I've been tracking through the rest of my narrative. 
 
 <p align="center">
-<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70359883-ff69ed00-184a-11ea-92de-6ccf8a95c542.JPG">
+<img width="550" height="300" src="https://user-images.githubusercontent.com/32546509/70359883-ff69ed00-184a-11ea-92de-6ccf8a95c542.JPG">
 </p>
 
 To reinforce this connection, I opted for the orange color scheme instead, which preserves the desired continuity with the subsequent visusalizations.
 
 <p align="center">
-<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70359858-efeaa400-184a-11ea-8adc-6a78094641bf.JPG">
+<img width="550" height="300" src="https://user-images.githubusercontent.com/32546509/70359858-efeaa400-184a-11ea-8adc-6a78094641bf.JPG">
 </p>
 
 <p align="center">
-<img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/70360155-a6e71f80-184b-11ea-9102-1c8e49910ed1.JPG">
+<img width="375" height="300" src="https://user-images.githubusercontent.com/32546509/70360155-a6e71f80-184b-11ea-9102-1c8e49910ed1.JPG">
 </p>
 
 <p align="center">
-<img width="500" height="300" src="https://user-images.githubusercontent.com/32546509/70360221-d302a080-184b-11ea-9aa8-609236f0cfcb.jpg">
+<img width="550" height="300" src="https://user-images.githubusercontent.com/32546509/70360221-d302a080-184b-11ea-9aa8-609236f0cfcb.jpg">
 </p>
 
 In some cases, the major obstacle to achieving my goal of clarity and simplicity was extreme outliers in my source data sets. In one example, I was working with a table from Yochai Benkler's 2006 book, *The Wealth of Networks,* which highlighted the relative proportion of patent revenues vs. government sources in the budgets of top research universities in the US. The central message of both Benkler's table as well as my graphical redesign was that, on average, patent revenues represent a very small proportion of top research universities' budgets. However, because the University of California had a budget more than 4 times the size of any other major research university, leaving it in the graph threatened to obscure that central message by making the percentage represented by patent revenues virtually imperceptible. By excluding this outlier, I could more effectively convey the data's central message without grossly misrepresenting the reality it represents.
