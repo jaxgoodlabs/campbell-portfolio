@@ -32,4 +32,7 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 
 ![Tableau graph 1](https://user-images.githubusercontent.com/32546509/68548170-e8ed8480-03b7-11ea-9cea-34af4472b192.JPG)
 
+### Final Project
+See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell)
+
 Check out some of my smaller projects and experiments [here](/dataviz2.md)
