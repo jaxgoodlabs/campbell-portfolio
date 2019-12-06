@@ -340,7 +340,7 @@ To reinforce this connection, I opted for the orange color scheme instead, which
 </p>
 
 <p align="center">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/32546509/70360155-a6e71f80-184b-11ea-9102-1c8e49910ed1.JPG">
+<img width="400" height="300" src="https://user-images.githubusercontent.com/32546509/70360155-a6e71f80-184b-11ea-9102-1c8e49910ed1.JPG">
 </p>
 
 <p align="center">
