@@ -1,4 +1,4 @@
-(#Final-Project-Part-1:-Outline)
+[create anchor](#final-project-part-1:-outline)
 
 ## Summary
 The landscape of regulations and policies surrounding the use and reproduction of data and other information-based goods, particularly in relation to intellectual property protections, has significant consequences on innovation and economic productivity both within the country of origin as well as around the world. 
