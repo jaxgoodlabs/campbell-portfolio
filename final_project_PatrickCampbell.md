@@ -17,6 +17,7 @@ Examples of such goods include digital copy media (movies, music, books, etc.), 
 </p>
 Source: [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
 
+
 **Ch. 2: Economics of Information**
 
 Main idea: The economics of information-based goods is strange, presenting both opportunities and challenges
@@ -27,7 +28,8 @@ With traditional goods like apples and refrigerators, the forces of supply and d
 <img width="380" height="300" src="https://user-images.githubusercontent.com/32546509/69015858-93404b80-0966-11ea-86ac-bed22e958344.png">
 </p>
 Source: [Environmental Literacy Council](https://enviroliteracy.org/environment-society/economics/marginal-costs-benefits/)
-  
+
+
 In an information-based economy, however, there are many valuable goods that cost nothing to reproduce, and thus have a marginal cost of 0. This situation creates a dilemma for the producers of these goods and justifies the case for intellectual property protections.
 
 **Ch. 3: Opportunities**
@@ -45,7 +47,8 @@ Source: [McKinsey](https://www.mckinsey.com/business-functions/mckinsey-digital/
 <img width="420" height="300" src="https://user-images.githubusercontent.com/32546509/69016107-15ca0a80-0969-11ea-81cb-6645c98af3ab.png">
 </p>
 Source: [London School of Economics and Political Science](https://blogs.lse.ac.uk/businessreview/2018/03/22/intellectual-property-rights-and-the-transfer-of-low-carbon-technologies-to-other-countries/)
-  
+
+
 **Ch. 4: Challenges**
 
 Main idea: IP law serves an important purpose, but is susceptible to abuse
@@ -56,7 +59,8 @@ Many economists believe that pricing such goods equal to their marginal cost (as
 <img width="350" height="300" src="https://user-images.githubusercontent.com/32546509/69016123-37c38d00-0969-11ea-88df-03884b6d0718.png">
 </p>
 Source: [US Chamber of Commerce](https://www.uschamber.com/series/above-the-fold/2019-ip-index-shows-ip-protections-increase-countries-global-competitiveness)
- 
+
+
 **Ch. 5: The Debate**
 
 Main idea: The debate is fierce and strongly influenced by special interests
@@ -305,3 +309,46 @@ In response to the feedback of prospective users, I made the following changes:
     - Bar graph on the benefits of tech transfer
     - The debate section contrasting the two main positions on the issue
     - The section describing the mechanism of value generation 
+
+## Data Sources
+1. Benkler, Yochai. *The Wealth of Networks.* London and New Haven: Yale University Press. 2006. [Table 9.2](https://cyber.harvard.edu/wealth_of_networks/Table_9.2)
+2. [GDP by utility patents, USPTO](https://developer.uspto.gov/visualization/state-gdp-utility-patents)
+3. [University patent count and R&D expenditures](https://developer.uspto.gov/visualization/university-patent-count-expenditures)
+4. [U.S. COLLEGES AND UNIVERSITIES-UTILITY PATENT GRANTS, CALENDAR YEARS 1969-2012](https://www.uspto.gov/web/offices/ac/ido/oeip/taf/univ/total_counts/univ_ct_list_2012.htm)
+5. [U.S. COLLEGES AND UNIVERSITIES-UTILITY PATENT GRANTS 1969-2012](https://www.uspto.gov/web/offices/ac/ido/oeip/taf/univ/asgn/table_1_2012.htm)
+6. [Patents by area, Hamilton Project, Brookings Institution](https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
+7. [Global Competitiveness Report, World Economic Forum](http://reports.weforum.org/global-competitiveness-report-2014-2015/)
+8. [US Chamber of Commerce International IP Index Scores, 7th ed.] (https://www.theglobalipcenter.com/ipindex2019-chart/)
+9. [GDP by country (current US$), World Bank](https://data.worldbank.org/indicator/ny.gdp.mktp.cd?view=map)
+10. [Projected value of open data, McKinsey](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20information/MGI_Open_data_FullReport_Oct2013.ashx)
+	
+## Final Presentation photo credits
+Credits for all photos used in the final project published on Shorthand [Link](https://carnegiemellon.shorthandstories.com/ip-and-the-information-economy-v2/index.html) are provided below (in the order presented).
+
+1. [Stages of economic development] - [Bangkok University](http://mbi.bu.ac.th/why-a-mbi/the-source-of-wealth-the-past-the-future)
+2. [Competitive Advantage through the Economic Eras](http://www.tomorrowtodayglobal.com/2013/02/21/competitive-advantage-what-matters-most-today-and-how-we-got-here/)
+3. [Industrial revolution](https://www.seekmomentum.com/blog/manufacturing/the-evolution-of-industry-from-1-to-4)
+4. [Oil of the 21st century](https://twitter.com/TheEconomist)
+5. [Copy and paste](https://www.sodapdf.com/blog/how-to-cut-copy-and-paste-images-in-a-pdf-file/)
+6. [Copies, copies, copies](https://www.onshape.com/cad-blog/copies-copies-copies)
+7. [Wall of patents](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1)
+8. [Economic analysis of 0$ MC goods](https://pdfs.semanticscholar.org/975a/4754b250196a8aa2ca61c397ab4cf8737d8e.pdf?_ga=2.43330791.354453290.1575000518-1307926883.1575000518)
+9. [Patenting is Concentrated in Cities and Near Universities](https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
+10. [University closing photo](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1
+
+## Other Resources
+1. Tiemann, Michael. "The (awesome) economics of open source." Opensource.com. 13 Sep 2018. [Link](https://opensource.com/article/18/9/awesome-economics-open-source)
+2. Duhigg, Charles and Steve Lohroct. "The Patent, Used as a Sword." New York Times. Oct. 7, 2012. [Link](https://www.nytimes.com/2012/10/08/technology/patent-wars-among-tech-giants-can-stifle-competition.html)
+3. Adrian, Anne Mims. "Challenges in creating open data policies for universities." Open Access Government. November 23, 2018. [Link](https://www.openaccessgovernment.org/challenges-in-creating-open-data-policies-for-universities/54922/)
+4. Bilderbeek, Pim. "Transformation: From Traditional To Digital Economy." The Metis Files. Nov. 28, 2013. [Link](https://www.themetisfiles.com/2013/11/transformation-from-traditional-to-digital-economy/)
+5. Lewin, Peter. "Creativity or Coorecion: Perspectives on Rights to Intellectual Property." From the Selected Works of Peter Lewin. University of Texas at Dallas. 2007. [Link](https://pdfs.semanticscholar.org/975a/4754b250196a8aa2ca61c397ab4cf8737d8e.pdf?_ga=2.43330791.354453290.1575000518-1307926883.1575000518)
+6. Supply-and-demand chart generator. Creately.com. [Link](https://app.creately.com/diagram/KXa4BUamcxd/edit)
+7. Perens, Bruce. "The Emerging Economic Paradigm of Open Source." *First Monday, Special Issue #2: Open Source.* Oct. 3, 2005. [Link](https://www.ojphi.org/ojs/index.php/fm/article/view/1470/1385)
+8. Roser, Max. "Economic Growth." Our World in Data. [Link](https://ourworldindata.org/economic-growth?fbclid=IwAR3DhN91pAZZWifvM5BxFddXfleOs6ZAuQtclPZJpCgz87prr_HsZ-PQ388)
+9. "Intellectual Property and the US Economy." US Patent and Trademark Office. [Link](Intellectual Property and the U.S. Economy)
+10. Stiglitz, Joseph E., Dean Baker, and Arjun Jayadev. "Intellectual Property for the 21st-Century Economy." Columbia Business School. October 17, 2017. [Link](https://www8.gsb.columbia.edu/articles/chazen-global-insights/intellectual-property-21st-century-economy)
+11. Schultz, Mark and Kevin Madigan. "It’s Time to Fix the Global Patent System Before It Breaks Under the Weight of New Applications." IP Watchdog. October 24, 2016. [Link](https://www.ipwatchdog.com/2016/10/24/time-fix-global-patent-system/id=74112/)
+12. Hayes, Adam. "When Universities Patent Their Research." IP Watchdog. November 20, 2017. [Link](https://www.ipwatchdog.com/2017/11/20/universities-patent-research/id=90200/)
+13. The Global Dimensions of Intellectual Property Rights in Science and Technology." The National Academies Press. 1993. [Link](https://www.nap.edu/read/2054/chapter/3)
+14. Solomon, Neal. "Correlation of U.S. Patent System and Productivity Growth." IP Watchdog. September 29, 2016. [Link](https://www.ipwatchdog.com/2016/09/29/correlation-us-patent-system-productivity-growth/id=73254/)
+15. 
