@@ -410,8 +410,8 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 6. [Copies, copies, copies](https://www.onshape.com/cad-blog/copies-copies-copies)
 7. [Wall of patents](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1)
 8. [Economic analysis of 0$ MC goods](https://pdfs.semanticscholar.org/975a/4754b250196a8aa2ca61c397ab4cf8737d8e.pdf?_ga=2.43330791.354453290.1575000518-1307926883.1575000518)
-9. [Patenting is Concentrated in Cities and Near Universities(https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
-10. [University closing photo](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1
+9. [Patenting is Concentrated in Cities and Near Universities](https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
+10. [University closing photo](http://www.research.usf.edu/absolute-news/templates/usfri-template.aspx?articleid=7057&zoneid=1)
 
 ## Other Links and Resources
 1. Tiemann, Michael. "The (awesome) economics of open source." Opensource.com. 13 Sep 2018. [Link](https://opensource.com/article/18/9/awesome-economics-open-source)
