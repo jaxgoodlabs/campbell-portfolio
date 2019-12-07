@@ -437,4 +437,4 @@ Credits for all photos used in the final project published on Shorthand [Link](h
 
 [Return to Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/)
 
-[Navigate to supplemental works](/dataviz2.html)
+[Navigate to supplemental works](https://jaxgoodlabs.github.io/campbell-portfolio/dataviz2.html)
