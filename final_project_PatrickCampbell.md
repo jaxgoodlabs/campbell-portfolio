@@ -394,7 +394,7 @@ Link to updated Github repository [here](https://github.com/jaxgoodlabs/campbell
 5. [U.S. COLLEGES AND UNIVERSITIES-UTILITY PATENT GRANTS 1969-2012](https://www.uspto.gov/web/offices/ac/ido/oeip/taf/univ/asgn/table_1_2012.htm)
 6. [Patents by area, Hamilton Project, Brookings Institution](https://www.hamiltonproject.org/charts/patenting_is_concentrated_in_cities_and_near_universities)
 7. [Global Competitiveness Report, World Economic Forum](http://reports.weforum.org/global-competitiveness-report-2014-2015/)
-8. [US Chamber of Commerce International IP Index Scores, 7th ed.] (https://www.theglobalipcenter.com/ipindex2019-chart/)
+8. [US Chamber of Commerce International IP Index Scores, 7th ed.](https://www.theglobalipcenter.com/ipindex2019-chart/)
 9. [GDP by country (current US$), World Bank](https://data.worldbank.org/indicator/ny.gdp.mktp.cd?view=map)
 10. [Projected value of open data, McKinsey](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Digital/Our%20Insights/Open%20data%20Unlocking%20innovation%20and%20performance%20with%20liquid%20information/MGI_Open_data_FullReport_Oct2013.ashx)
 11. "World Patent Report: A Statistical Review - 2008 edition." World Intellectual Property Organization. [Link](https://www.wipo.int/ipstats/en/statistics/patents/wipo_pub_931.html)
