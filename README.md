@@ -44,4 +44,4 @@ With every new iteration of my redeisgn, I immediately shared it with others for
 ### Final Project
 See my final project [here](https://jaxgoodlabs.github.io/campbell-portfolio/final_project_PatrickCampbell).
 
-Check out some of my smaller projects and experiments [here](https://jaxgoodlabs.github.io/campbell-portfolio/dataviz2.md).
+Check out some of my smaller projects and experiments [here](https://jaxgoodlabs.github.io/campbell-portfolio/dataviz2).
